@@ -94,4 +94,9 @@ letzten paar bilder, der vierenscanner wäre der der die vieren an relevatne dat
 urs blum:
 dann wäre der wetteinsatz von diesen geistesrkanken jeweils das eigene leben und der riela ist selber schuld
 
+Sun Aug  1 01:19:55 CEST 2021
+  97  344 4260 20210801c.txt
+[main 12c1ffa] save
+ 1 file changed, 2 insertions(+)
+d73e4f7bca39ca7273b160da74c98635e600bb7b087590cb8bb8c206452d401dcf3e0223152e9b72e3e37fe435de015d0435eb93408989738426e621e2d09b55  20210801c.txt
 
