@@ -81,4 +81,10 @@ Sun Aug  1 00:15:37 CEST 2021
 
 der git commit ist aber nur im privaten repo
 
+Sun Aug  1 00:47:11 CEST 2021
+  84  285 3713 20210801b.txt
+[main 88a4de2] save
+ 1 file changed, 84 insertions(+)
+ create mode 100644 tagebuch/2021/august/20210801b.txt
+42eaacf6f84fdb1080b769cc27620ca7dcdc1e42005c599ff7620c68571514c4b820afd1edacfd3c662cf3af2d7d7b99e489c003915aa1335b629d5616b8b0e0  20210801b.txt
 
