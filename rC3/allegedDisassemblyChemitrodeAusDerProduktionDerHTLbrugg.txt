@@ -160,3 +160,9 @@ Sun Aug  1 13:33:18 CEST 2021
  1 file changed, 7 insertions(+)
 33fa7a16674d8603c4c26c4f155232b305537d4804af8210dc3434d6939910c1bfb626b36375ef212cd88a224d38e377366da6223b5d6a8f80c2c46033fb23b7  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
+mutmassung: die chemitroden haben auf dem überwachungssystem einen progress balken wie lange diese noch unbehebt bleiben[1] ausserdem hat es dort weitere dinge die man aktivieren kann welches die wundversorgung herauszieht...
+
+[1]  [icd10 f44.x eigeschlatet worden bei mir und melatonin metabolismus gestartet wroden] 
+i
+
+
