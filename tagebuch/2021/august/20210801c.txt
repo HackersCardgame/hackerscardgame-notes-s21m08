@@ -133,3 +133,8 @@ Your branch is up to date with 'origin/main'.
 nothing to commit, working tree clean
 2b909b67b8ebc901560835c3e904e12cb9a753c9f528c8596e2c94430e525c7465e1e669b2b2b3ed37598b08e3f6683505d93beb2ba7048112e57cf60a14b665  20210801c.txt
 
+
+
+dann gibt es eine Endpoint malware die scheinbar auch auf meinen kopf zugriff hat (unklar ob etwas wie neuralink oder "nur" stimulus response habit) welche dafür sorgt dass ich selber oder "selber" diese gegraylisteten todos (rosa arrayList<TODOs> karte) gleichzeitig versuche zu erledigen welche alle die selbe festplatte (generischer: ressource) brauche. also werden die Rosa ArrayList<TODOs> noch nach benötigten resourcen sortiert... und das dann als CyberWaffe gegen mich missbraucht ähm "gebraucht"
+
+
