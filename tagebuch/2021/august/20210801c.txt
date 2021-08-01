@@ -174,4 +174,9 @@ gespeicherte körper positionen die öfters vorkommen (achsmechanik / vorward / 
 
 
 
+Sun Aug  1 12:06:16 CEST 2021
+ 177  772 7623 20210801c.txt
+[main 4c7a4a4] save
+ 1 file changed, 9 insertions(+)
+eadb340fb62d9da23b84437cc823139a72f8df022249be69139b021af9d2af7e8f8e82b1b7b0103244c5d3c53780ea22374d68f15417c175cef66dd0c92a712a  20210801c.txt
 
