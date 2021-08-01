@@ -160,4 +160,9 @@ scheinbar ist das übliche Verhaltensmusder geisteskranker 1960er bei körperpfl
 
 vermtulcih action recognition  -> action prediction meiner letzten tage 
 
+Sun Aug  1 11:52:23 CEST 2021
+ 163  691 6944 20210801c.txt
+[main f2f05a7] save
+ 1 file changed, 18 insertions(+)
+cc5de6776cfd08da39e301de7f51a868ee7386a48116bf870b7044218ed331b6ba4b31c7f6e007cc8cf5d16c661b7fd9ddfc24370d1e1346074e4844bbdec5b3  20210801c.txt
 
