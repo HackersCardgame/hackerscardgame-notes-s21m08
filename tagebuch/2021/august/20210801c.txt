@@ -137,4 +137,9 @@ nothing to commit, working tree clean
 
 dann gibt es eine Endpoint malware die scheinbar auch auf meinen kopf zugriff hat (unklar ob etwas wie neuralink oder "nur" stimulus response habit) welche dafür sorgt dass ich selber oder "selber" diese gegraylisteten todos (rosa arrayList<TODOs> karte) gleichzeitig versuche zu erledigen welche alle die selbe festplatte (generischer: ressource) brauche. also werden die Rosa ArrayList<TODOs> noch nach benötigten resourcen sortiert... und das dann als CyberWaffe gegen mich missbraucht ähm "gebraucht"
 
+Sun Aug  1 09:24:10 CEST 2021
+ 140  608 6205 20210801c.txt
+[main 3cdfd03] save
+ 1 file changed, 5 insertions(+)
+f4f1cbc8919a4a8e367b4e069c5167bfc96c1a295f97f27b1f2526ea00c382559e469d58a1bfb1fd8a9238941be164678f9c18fddb50f092e996cc125df78f48  20210801c.txt
 
