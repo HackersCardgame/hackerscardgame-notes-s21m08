@@ -196,4 +196,9 @@ bei so einer chemitrode, selbst wenn man das mal relativ schnell draussen hat [f
 
 generics: immer mitten im satz pfisterer drohen, metapattern, keinen satz mehr vollenden lassen, allenfalls interessant für gutartige jursisten und richter dass es soclhe software scheinbar gibt
 
+Sun Aug  1 12:18:58 CEST 2021
+ 199 1013 9636 20210801c.txt
+[main 5c81860] save
+ 1 file changed, 7 insertions(+)
+0ce8667854ffb1923b3c0da33721001a0f13344cff079caeb2ea1dab4a390c74002ccc63cd3bb7539860d324b0a35071c7473f647749e16c7c362c955b553904  20210801c.txt
 
