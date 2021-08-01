@@ -154,4 +154,9 @@ dann selbst wenn das mal nicht stunden dauert gibt es eine riesen eiter-beule, a
 
 
 
+Sun Aug  1 13:33:18 CEST 2021
+  157  1536 12682 allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
+[main d4421a8] save
+ 1 file changed, 7 insertions(+)
+33fa7a16674d8603c4c26c4f155232b305537d4804af8210dc3434d6939910c1bfb626b36375ef212cd88a224d38e377366da6223b5d6a8f80c2c46033fb23b7  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
