@@ -143,4 +143,9 @@ Mon Aug  2 06:19:27 CEST 2021
 
 Prio hätte ein mutmasslich grad aktives interface zwischen der KSA Neurologie und z.B. Dingen wie der SIMS-enigine
 
+Mon Aug  2 06:25:42 CEST 2021
+ 146  770 6367 20210802.txt
+[main feeb0b6] save
+ 1 file changed, 3 insertions(+)
+334a8b3b7a05d58a789124045581fa21a5905d58f2e046a537cd6d01af15e6265b8b01e5ccbe47adeb4e7e9fb81d45db39a2e620b99fa14374a9b9d7ac360d11  20210802.txt
 
