@@ -288,4 +288,9 @@ nach dem tweet handy<->geheimverträge der ksa neurologie mit unbekannt = schlü
 urs blum: es sind die russen vigor router <- dirkte rede von urs blum lengkt von dem oben ab, urs blum hatte in urs den auftrag gefasst die ksa zu ownen
 
 
+Mon Aug  2 09:40:12 CEST 2021
+  291  1692 12967 20210802.txt
+[main 3b7232b] save
+ 1 file changed, 6 insertions(+)
+c544821963f40206ac8fcdfba41c3e851da8f33d3e4df94eaa96162f4e011f1c4fd276d6728f2d914a402d0eff7b62fb5853633a7b613a2cac68d4655186f080  20210802.txt
 
