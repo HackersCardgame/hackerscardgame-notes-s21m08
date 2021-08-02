@@ -350,16 +350,15 @@ Mon Aug  2 12:10:34 CEST 2021
 
 
 
-Meine gleichaltrige Besitzerin die an der Uni Basel Medizin studiert hat, hat ca mit 22 permanent "Medulla Oblangata" gefaselt immer relativ aufgebracht. Ich hab damals gedacht "was spinnt Die jetzt wieder" [1] bzw. eher "mit was für einem Medizin-Hexen-Zauber verhext sie mich jetzt wieder" [2]. Als Bestrafung für mich war ich dann ca. während 5 Jahren 10-20 mal auf der Notaufnahme wegen Atem-Problemen und Herzrasen. Ich bin definitv nicht an Medizin-Zeugs interessiert sondern an Computer-Zeugs und sie ist/war komplett Informatik-Doof [3]. Ich hatte damals vorallem Angst, dass mein Herz irgend einen Schaden haben könnte. Ich hab dann ein 24h EKG gemacht wo die einem so Elektroden und so ein Aufzeichnugsgerät ankleben. Dann haben die gesagt mit dem Herz sei alles i.O. bis auf die Stelle die ich als "schelles Fahrradfahren (unausgesprochen: weil ich fast einen Termin verpasst hätte)" und da war ich wirklich sehr knapp dran und fahre selten so sportlich. Also habe ich dann mal weniger Panik gehabt dass ich einen Herzinfarkt.
+Meine gleichaltrige Besitzerin die an der Uni Basel Medizin studiert hat, hat ca mit 22 permanent "Medulla Oblangata" gefaselt immer relativ aufgebracht. Ich hab damals gedacht "was spinnt Die jetzt wieder" [1] bzw. eher "mit was für einem Medizin-Hexen-Zauber verhext sie mich jetzt wieder" [2]. Als Bestrafung für mich war ich dann ca. während 5 Jahren 10-20 mal auf der Notaufnahme wegen Atem-Problemen und Herzrasen. Ich bin definitv nicht an Medizin-Zeugs interessiert sondern an Computer-Zeugs und sie ist/war komplett Informatik-Doof [3]. Ich hatte damals vorallem Angst, dass mein Herz irgend einen Schaden haben könnte. Ich hab dann ein 24h EKG gemacht wo die einem so Elektroden und so ein Aufzeichnugsgerät ankleben. Dann haben die gesagt mit dem Herz sei alles i.O. bis auf die Stelle die ich als "schelles Fahrradfahren (unausgesprochen: weil ich fast einen Termin verpasst habe)" und da war ich wirklich sehr in Eile und fahre selten so sportlich. Also habe ich dann mal weniger Panik gehabt dass ich einen Herzinfarkt.
 
-Später ist mir dann aufgefallen, dass das öfters dann passiert wenn ich irgendwelche Wirtschafts-Kriminalität oder Drogendealer verpetze. Das haben die dann aber "repariert" mit dem Addon "Es ist weil Marc jr. sein Schwä***chen angefasst hat" (ebd. Objekt-Fixierung, Limbic System Vulnerability Hack)
+Später ist mir dann aufgefallen, dass das öfters dann passiert wenn ich irgendwelche Wirtschafts-Kriminalität, Drogendealer oder Psychiater verpetze. Das haben die dann aber "repariert" mit dem Addon "Es ist weil Marc jr. sein Schwä***chen angefasst hat" (ebd. Objekt-Fixierung, Limbic System Vulnerability Hack)
 
-Ich bin dann erst später darauf gekommen dass die Medulla Oblangate afaik z.B. die Atmung und/oder das Herz steuert [4]
-
-Solar Plexus <- meine 
+Ich bin dann erst später darauf gekommen dass die Medulla Oblangate afaik z.B. die Atmung und/oder das Herz steuert [4] dann gibt es ja jetzt Neuralink und ich kann sie jetzt permanent mit [3] nerven
 
 
-[1] Du: masken <- schlimmer + weitere Objekt-Fixierung && weitere falsche Spur/Ursache <- allenfalls Footprinting / Ennumeration an mir als LaborRatte
+
+[1] Du: Masken <- schlimmer + weitere Objekt-Fixierung && weitere falsche Spur/Ursache <- allenfalls Footprinting / Ennumeration an mir als LaborRatte und Output: das wirkt nicht um LaborRatten wie Marc jr. gefügig zu machen.
 
 
 [2] später habe ich mich dann mit "Das weiss doch ein 23 Jähriger Informatik Student nicht was die Medulla Oblangata ist" herausgeredet
@@ -368,7 +367,7 @@ Solar Plexus <- meine
 [3] Ich möchte dazu das nachfolgende Bild als Beweismittel einreichen.
 
 
-[4] wenn man einen informatik student mit einer medizin studentin paart [5] kommt dann schlussendlich der output sowieso etwas in richtung Stimoceiver bis Neuralink
+[4] wenn man einen Informatik Student mit einer Medizin Studentin paart [5] kommt dann schlussendlich der output sowieso etwas in richtung Stimoceiver bis Neuralink
 
 
 [5] zum Glück haben die mich nicht mit einer Chemie-Studentin gepaart
