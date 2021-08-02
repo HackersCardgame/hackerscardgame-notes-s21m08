@@ -149,3 +149,27 @@ Mon Aug  2 06:25:42 CEST 2021
  1 file changed, 3 insertions(+)
 334a8b3b7a05d58a789124045581fa21a5905d58f2e046a537cd6d01af15e6265b8b01e5ccbe47adeb4e7e9fb81d45db39a2e620b99fa14374a9b9d7ac360d11  20210802.txt
 
+
+Generics Mansplaining / Femisplainig malware
+
+
+Action Recognition 
+
+|---a------b---c-----de---f-->
+
+
+Action Prediction mit sequence randomizer 
+
+|---c------d---e-----ab---f-->
+
+
+Action Prediction mit sequence randomizer + vor jedem schritt aktiviert jemand unserer eltern genration eine körperfunktoin und das wird dann mit "wir helfen, sag uns danke wegen dem hinweis mit [fader pfisteer sprache 2] chemitode, GUID theft [
+
+   x--->  x--->     x--->
+|---c------d---e-----ab---f-->
+
+
+zweites ding was die grad verraten haben
+generics: baukasten mit recognition von allen tasks die unsere elternngeration schon verkotzt hat die dann auch noch injected wird
+
+
