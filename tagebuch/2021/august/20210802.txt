@@ -373,4 +373,13 @@ Ich bin dann erst später darauf gekommen dass die Medulla Oblangate afaik z.B. 
 [5] zum Glück haben die mich nicht mit einer Chemie-Studentin gepaart
 
 
+Mon Aug  2 17:20:45 CEST 2021
+  376  2267 17163 20210802.txt
+[main a76f275] save
+ 1 file changed, 5 insertions(+), 6 deletions(-)
+132f1238c905610be78e7b1098334a1dabee4201c27bb61c8c87a085b511195dc1d5fab188859d4f3c0139dacc9fa48856e0be95055b5a7fad064b6aabcae68d  20210802.txt
+
+
+ich geh mal pennen, cih bin wieder zu fest verbeult...
+
 
