@@ -3,14 +3,6 @@ Mon Aug  2 04:33:21 CEST 2021
 
 tagebücher schon wieder weg und loop
 
-ich mache bilanz suizid wegen aquila && induced depression
+ich bilanz suizid wegen aquila && induced depression
 
-
-
-Mon Aug  2 04:34:02 CEST 2021
- 10  25 152 20210802.txt
-[main 90f78c6] save
- 1 file changed, 10 insertions(+)
- create mode 100644 tagebuch/2021/august/20210802.txt
-635e06c9720b6fee47d6cb88ff5b315106e7bcbd60caf87af7dc6780adab1d97b2039e0b75c7f953418b281976d680d96b532942aac6aa2a50afc712dbf8196f  20210802.txt
 
