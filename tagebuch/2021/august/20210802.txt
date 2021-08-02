@@ -63,4 +63,9 @@ pavlov stimuli ist severity 1
 cyberwürgekette ist severity 2
 => also spinnt wieder ein hno arzt oder die access codes sind "ausnahmsweise" wieder mal "verloren" gegangen...
 
+Mon Aug  2 05:57:20 CEST 2021
+  66  363 2926 20210802.txt
+[main ac952ca] save
+ 1 file changed, 21 insertions(+)
+26967614d91df593a9e62f5a2608ab572a00860f25cdf4913e8eb6e9233eee759d5d5eebeb9a461ef52803f334ef0fa31e56096bca88d13b053292cafa48a867  20210802.txt
 
