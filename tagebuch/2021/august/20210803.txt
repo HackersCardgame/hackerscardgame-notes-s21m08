@@ -92,3 +92,8 @@ Your branch is ahead of 'origin/main' by 1 commit.
 nothing to commit, working tree clean
 276db55b6c4e3101f6d81b1f65077c59d4401a820cebcc3c661dbd3ba2fe36cc4d4a42001db62a8832c3f4099b2acf18d6ce5e9613a1957b704b965e27a3708e  20210803.txt
 
+über die cisco phones gibt es ein CCC talk aber der ist auch scon irgend 10 jahre alt, allenfalls ist das feautre dass die dinger hackbar sind, so kann sich cisco mit "sorry waren blackhats" rausreden
+
+=> konzept wissen "leaving us vunerable" generell und bei targetet individuals "making us vulndable" ???
+
+
