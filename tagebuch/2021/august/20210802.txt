@@ -115,4 +115,9 @@ eltern die ihren kindern "SIMS" kaufen wissen dass das game noch einen part2 hab
 
 => bisher spekulation, grundsätzlich wäre aber vermutlcih die SIMS-engine für solches geeignet
 
+Mon Aug  2 06:14:06 CEST 2021
+ 118  602 4953 20210802.txt
+[main f92d738] save
+ 1 file changed, 7 insertions(+)
+27464bd67a47eeda7966ad24426e3376310cf3b9a7e7e6111a933997e4eede345600b0cb8cb649f52f8f37244674de9868df5dcc3bdd0b989f37cc3a825cbbfd  20210802.txt
 
