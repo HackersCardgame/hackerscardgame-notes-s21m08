@@ -81,4 +81,9 @@ ba52cb5938b07d402ef11b35b87861501bc44623884d76e200758e22f1192b15e222e708e8a6da7d
 
 marcel hat noch cisco ip-telefone erwähnt -> m75 und cisco logo wie flugzeug flaggschif bei einem overlay, wiedererkennungswert für CTF?
 
+Mon Aug  2 23:15:18 CEST 2021
+  84  608 4155 20210803.txt
+[main 0299f8e] save
+ 1 file changed, 4 insertions(+)
+678237cd3108d183aabc9ee8067f258a69165dafe352b958fbd5eb797748581abd26c26635e1aa65c4d30463d2e41478f2ebb38447635df87122dcafa08c2cb3  20210803.txt
 
