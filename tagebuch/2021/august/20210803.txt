@@ -112,3 +112,17 @@ Mon Aug  2 23:30:05 CEST 2021
  1 file changed, 5 insertions(+)
 062a22954297a08e22af4fdaa6cb3dd192a3c5d705b679c4f3b344f17092722042f4e9dd6384829414e413cd3ffb6d8a61982a3547892d5d612c4e6be65b5086  20210803.txt
 
+der CCC talk war afaik zur firmware
+
+Hypothese:
+die firmware ist vorsätzlich hackbar, die haben aber allenfalls noch ein agency / militaryGrade hardware modul für eine auserlesene menge von supermacy mongos die sicher ist... der CCC wäre dann der depp 
+
+also sobald die firmware hacked ist (red team) können die die >> hacker << dafür blamen und cisco verkauft dem opfer ein update?
+
+wäre nciht ein atypischer schachzug für menschen die zu viel zeit haben für so dinge
+
+
+
+
+
+
