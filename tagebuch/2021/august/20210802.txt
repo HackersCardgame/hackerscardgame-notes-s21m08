@@ -88,3 +88,19 @@ Mon Aug  2 06:05:43 CEST 2021
  1 file changed, 14 insertions(+)
 768526e469e008cede475b7b27e980617cf47cd3f8d3695ae82e0fba398ca2433bf302ca3f6a5a544ac199b98f3d9ff7d30589b750985d09ff238a779b9917c3  20210802.txt
 
+
+MAINFRAME Infected
+
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m08$ figlet DEFCON3
+ ____  _____ _____ ____ ___  _   _ _____ 
+|  _ \| ____|  ___/ ___/ _ \| \ | |___ / 
+| | | |  _| | |_ | |  | | | |  \| | |_ \ 
+| |_| | |___|  _|| |__| |_| | |\  |___) |
+|____/|_____|_|   \____\___/|_| \_|____/ 
+                                         
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m08$ 
+
+
+
+
+
