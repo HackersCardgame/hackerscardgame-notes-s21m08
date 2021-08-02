@@ -20,3 +20,6 @@ Mon Aug  2 04:39:07 CEST 2021
  1 file changed, 3 insertions(+)
 ed801867a18dd3f99c8d2fa189b797954ea62d1fed60874b630dd77ff1a61e79ed2da84992ff9b02a9d91ae2646dd2e5f669eb53220b450694b0d70b4868e87d  20210802.txt
 
+dann das iratemonk hat allenfalls auch eine funktion: beim indexieren von allen files oder abfragen der filetable dass nach 10% wieder gedrosselt wird...
+
+
