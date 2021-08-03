@@ -1,0 +1,213 @@
+
+
+Danke, genau das Puzzle Teil was gefehlt hat. Das QR-Codes System wurde zwischen 1999 und 2001 von Herrn Werner Dester und Herr Daniel Widmer im Kantonalen Steueramt, damals 1. und 17. Stock "evauliert".
+
+Dieses System degratiert somit den Mitarbeiter in der Gemeinde / Stadt zu einem Sündenbock der wenig bis gar nicht intervenieren kann, würde dann aber als Sündenbock und Boxsack verwendet werden von der Zielperson.
+
+Das ist Information die ich legal geammelt habe (war dort angestellt vor meinem Studium). Hätte ich diese Information mit "hacking" einfach genommen
+
+- wäre ich ein Blackhat Hacker (Red Team)
+- würde ich des StGB 143 strafbar machen
+- würde riskieren, dass jemand Mitarbeiter dann triggert bzw. so zu sagen als lebendes Schutzschild braucht
+- die Information wäre in einem Rechtsfall nicht zulässig
+- würde dann in das Blackhat Zwangsmassnahmensystem integriert
+
+=> Attachement: noRedTeam.PNG && WARNING.PNG
+
+Autisten fangen schon frühe damit an den Fehler in "Der Matrix" zu erkennen, üben berechtigte Kritik, werden dafür z.B. als einziges FamilienMitglied für 20 Jahre in den Keller verbannt. Als Autist weiss man dass etwas nicht stimmt, das nicht anzuprangern verursacht psychische Schmerzen also fängt der Autist relativ früh mit Sarkasmus oder Zynismus an.
+
+Couchy vom CCC macht hier nicht Werbung für "Schwarze Hackertools" sondern macht sich darüber lustig:
+mixcloud Couchsofa vs Zaunei - Als Künstler Distanziere Ich Mich Von Diesem Set - live auf der TCP2017
+
+Das ganze ist interaktiv und nimmt sowohl auf den Mitarbeiter als auch auf das Opfer Einfluss. z.B. auch einige Polizisten der Kantonspolizei Kapo Posten West fuchtelt am Computer mit Mulitfactor Authentication (Passwort & Chipkarte) irgendwelche Maus-Gesten am PolizeiComputer. Dass das technisch geht zeigt mein Proof of Concept (mouseTracker.PNG, ja sorry Shitty Code in im wordpress, keine Zeit) oder z.B. das entsprechende Firefox Plugin [1] was dann bei mir diverse Suizidversuche ausgelöst hat. Als ich ihn gefragt habe ob er sich bewusst ist dass er die Mausgesten macht und schon wird der Mensch psychotisch, ist bewaffnet und in einer Machtposition. Satan redet ihm vermutlich über irgendwelche Optischen, Akkustischen oder sonstige Kommunikations-Kanäle ein, dass das "unser kleines Geheimnis bleibt Prescious" was eine fette Lüge Satans ist. Satan hat fein säuberlich alle Regelübertretungen des Herren aufgezeichnet und z.B. im DataRetentionCenter der NSA in Utha abgespeichert und wird diese Information vorm "Secret" Curt gegen ihn verwenden (Wirst Case siehe Zeitungsartikel: "Polizist erschiesst Patienten im Neptun Brunnen", Berlin). Und logischerweise nimmt man den Menschen dann ins CC seit 10 Jahren und hofft, dass er mal Stellung nehmen wird, auserdem ist das wieder ein Fehler im System, somit eine Gefahrenquelle und als Autist bleibt einem dann der Zynismus (invitedMyself.PNG, logischwerise geht man nicht feiwillig auf eine Anklagebank oder in ein Verhör, insbesondere wenn man weiss dass einem alles angehängt wurde)
+
+All die alten Informatiker die Kurz vor der Pension stehen haben all diese Dinge selber nicht im Griff. bzw nicht selber im Griff und deren Konzept seit mindestens 1999 ist es z.B. den 20 jährigen Informatiker "Notfalls" als Sündenbock zu "verwenden" (Klammern verwende ich auch oft Zynisch, das verwenden wäre logischerweise ein missbrauchen, aber dann aktivieren die wieder "Diverses Unheil" gegen mich)
+
+[1] Google: firefox mouse gesture recognition
+https://www.google.com/search?q=firefox+mouse+gesture+recognition
+
+
+Wichtigste Frage: Bis wan muss ich das eingereicht haben, ich würde gerne den Fehler auf meinem Windows Endpoint (der noch ungefähr identisch ist) reproduzieren.
+
+Mit freundlichen Grüssen
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+Neuenburgerstrasse 6
+5004 Aarau
+062 822 61 31
+078 674 15 32
+
+
+
+Am 03.08.2021 um 17:35 schrieb Roth Philipp:> Guten Tag Herr Landolt
+> 
+> Wir können die Daten im System erst einsehen, sobald wir den entsprechenden Quittungsbeleg mit dem Strichcode eingelesen haben.
+> 
+> Den Quittungsbeleg zum Unterschreiben können Sie nur erneut ausdrucken, wenn Sie die Übermittlung neu starten. Falls dies nicht funktioniert, reichen Sie uns bitte sämtliche Unterlagen per Post ein. Dazu müssen Sie im EasyTax "Übermittlung der Belege in Papierform" auswählen, dann können Sie die gesamte Steuererklärung ausdrucken und mit den Belegen zusammen einreichen.
+> 
+> Beste Grüsse
+
+> 
+> 
+
+> 
+> Stadt Aarau . Sektion Steuern
+> Heinerich-Wirri-Strasse 3
+> Postfach 2336 . 5001 Aarau
+> 
+
+> www.aarau.ch
+> 
+> 
+> 
+> -----Ursprüngliche Nachricht-----
+> Von: Marc jr. Landolt <mail@marclandolt.ch>
+> Gesendet: Dienstag, 3. August 2021 10:54
+> An: Steuern <Steuern@aarau.ch>; info@fedpol.admin.ch; info@kapo.ag.ch
+
+> Betreff: Re: Rückmeldung Upload
+> 
+
+> 
+> Aber uplaoded wurden die Daten und falls ja, kann ich da dem Easy Tax irgendwie sagen es soll mir noch die Bestätigung für die Unterschrift nochmals Drucken?
+> 
+> Mit freundlichen Grüssen
+> Marc jr. Landolt
+> eidg. dipl. Informatiker HF
+> Neuenburgerstrasse 6
+> 5004 Aarau
+> 062 822 61 31
+> 078 674 15 32
+> 
+> @FEDPOL:
+> Administartiv:
+> "Dienst nach Vorschrift"?
+> => Entweder überfordert falls die Daten weggekommen sind oder jemand weiterer.
+> 
+> Informatik Ebene:
+> Mir wurde als junger Mitarbeiter eingeredet, dass der Computer keine Fehler macht. Dann wurde ich jeweils beim Arbeitgebern auf "Wir sind Super, wir haben alles im Griff" eingestimmt (so etwas wie ein Fahneneid auf die eigene Firma), wo ja nach den Snowden Leaks allen klar ist, dass wir allenfalls möglicherweise eventuell so ein "wenig" Probleme mit den Netzwerken haben.
+> 
+> Psychologische Ebene:
+> FallStudie vom Wort Fallen in Vorbereitung? dy/dt Karte oder wie ich jeweils nach Feiertagen als ich noch jünger war einfach noch Kater?
+> 
+
+> ich bin kein böser Mensch, insbesondere wenn Sie jünger sind als ich.
+> Ich hab dummerweise berechtigte Kritik an 43 Mia Konzern geübt, und jetzt passieren mir lauter merkwürdige Dinge am Computer. Da muss ich als einzelner auch nicht schämen wenn ich keine Chance gegen einen riesen Konzern habe, wichtig für mich wäre jetzt allenfalls zu wissen ob das zumindest im Server angekommen ist. Dann denke ich dass das
+> 
+> 
+> allenfalls ein Virus ist der genau für EasyTax entwickelt wurde:
+> 
+> 1. keine Bestätigung
+> 2. kein Ausdruck den man unterschreiben kann
+> 
+> => was dann wenn die vorherigen Mails irgendwie nicht beantwortet wieder auf "Marc jr ist selber Schuld, und nicht Einhalten von Fristen blah".
+> $in der Informatik würde man das die "Blaming the User" Karte nennen.
+> Das war vermutlich nie als faires Spiel gegen mich gedacht, als Autist macht man sich sowieso unbeliebt weil oft berechtigte Kritik; siehe Gerta Thundberg, Julian Assange und der Snowden ist glaub auch auf dem Spekturm.
+> 
+> also wie der "Nummer 5 Lebt" es formulieren würde: "input, input, input"
+> 
+> Am 03.08.2021 um 10:27 schrieb Steuern:
+>> Guten Tag Herr Landolt
+>>
+>> Bis jetzt haben wir Ihren unterschriebenen Quittungsbeleg nicht
+>> erhalten. Somit ist die Steuererklärung 2020 noch nicht eingereicht.
+>>
+>> Freundliche Grüsse
+>>
+>> Daria Meier . Leiterin Steuerkanzlei
+>>
+>> Stadt Aarau . Sektion Steuern
+>>
+>> Heinerich-Wirri-Strasse 3
+>>
+>> Postfach 2336 . 5001 Aarau
+>>
+>> T 062 836 05 69 . F 062 836 01 38
+>>
+>> www.aarau.ch <http://www.aarau.ch/>
+>>
+>> Logo_Steuernaargau1
+>>
+>> *** Kennen Sie schon das *eFristerstreckungstool* unter
+>> *www.ag.ch/efristerstreckung <http://www.ag.ch/efristerstreckung>*?
+>> Dort können Sie einfach und bequem die Frist zur Einreichung der
+>> Steuererklärung verlängern. Zur Identifikation und Sicherheit
+>> benötigen Sie dazu Ihren individuellen "Code". Der "Code" ist auf der
+>> Vorderseite der Steuererklärung aufgedruckt. ***
+>>
+>> -----Ursprüngliche Nachricht-----
+>> Von: Marc jr. Landolt <mail@marclandolt.ch>
+>> Gesendet: Dienstag, 3. August 2021 10:22
+>> An: Bezugsteuern <bezugsteuern@aarau.ch>; Steuern <Steuern@aarau.ch>;
+>> marc.landolt@0x8.ch; 2009@marclandolt.ch
+>> Betreff: Rückmeldung Upload
+>>
+>> Guten Tag
+>>
+>> wie bereits gesagt im letzten Mail. Das Easytax wollte den Zettel zum
+>> Unterschreiben nicht ausdrucken bzw. seg-faulted und hat auch kein
+>> Bestätigungsmail geschickt. Ich wollte nochmals fragen ob das
+>> angekommen ist
+>>
+>> Mit freundlichen Grüssen
+>>
+>> Marcr jr. Landolt
+>>
+>> eidg. dipl. Informatiker HF
+>>
+>> Neuenburgerstrasse 6
+>>
+>> 5004 Aarau
+>>
+>> 062 822 61 31
+>>
+>> 078 674 15 32
+>>
+
+
+ZENSUR IFRASTRUKTUIR WURDE JETZT AKTIVIERT, somit bewiesaufnahme und full log
+
+Sehr geehrter Herr Roth
+
+Danke, genau das Puzzle Teil was gefehlt hat. Das QR-Codes System wurde zwischen 1999 und 2001 von Herrn Werner Dester und Herr Daniel Widmer im Kantonalen Steueramt, damals 1. und 17. Stock "evauliert".
+
+Dieses System degratiert somit den Mitarbeiter in der Gemeinde / Stadt zu einem Sündenbock der wenig bis gar nicht intervenieren kann, würde dann aber als Sündenbock und Boxsack verwendet werden von der Zielperson.
+
+Das ist Information die ich legal geammelt habe (war dort angestellt vor meinem Studium). Hätte ich diese Information mit "hacking" einfach genommen
+
+- wäre ich ein Blackhat Hacker (Red Team)
+- würde ich des StGB 143 strafbar machen
+- würde riskieren, dass jemand Mitarbeiter dann triggert bzw. so zu sagen als lebendes Schutzschild braucht
+- die Information wäre in einem Rechtsfall nicht zulässig
+- würde dann in das Blackhat Zwangsmassnahmensystem integriert
+
+=> Attachement: noRedTeam.PNG && WARNING.PNG
+
+Autisten fangen schon frühe damit an den Fehler in "Der Matrix" zu erkennen, üben berechtigte Kritik, werden dafür z.B. als einziges FamilienMitglied für 20 Jahre in den Keller verbannt. Als Autist weiss man dass etwas nicht stimmt, das nicht anzuprangern verursacht psychische Schmerzen also fängt der Autist relativ früh mit Sarkasmus oder Zynismus an.
+
+Couchy vom CCC macht hier nicht Werbung für "Schwarze Hackertools" sondern macht sich darüber lustig:
+mixcloud Couchsofa vs Zaunei - Als Künstler Distanziere Ich Mich Von Diesem Set - live auf der TCP2017
+
+Das ganze ist interaktiv und nimmt sowohl auf den Mitarbeiter als auch auf das Opfer Einfluss. z.B. auch einige Polizisten der Kantonspolizei Kapo Posten West fuchtelt am Computer mit Mulitfactor Authentication (Passwort & Chipkarte) irgendwelche Maus-Gesten am PolizeiComputer. Dass das technisch geht zeigt mein Proof of Concept (mouseTracker.PNG, ja sorry Shitty Code in im wordpress, keine Zeit) oder z.B. das entsprechende Firefox Plugin [1] was dann bei mir diverse Suizidversuche ausgelöst hat. Als ich ihn gefragt habe ob er sich bewusst ist dass er die Mausgesten macht und schon wird der Mensch psychotisch, ist bewaffnet und in einer Machtposition. Satan redet ihm vermutlich über irgendwelche Optischen, Akkustischen oder sonstige Kommunikations-Kanäle ein, dass das "unser kleines Geheimnis bleibt Prescious" was eine fette Lüge Satans ist. Satan hat fein säuberlich alle Regelübertretungen des Herren aufgezeichnet und z.B. im DataRetentionCenter der NSA in Utha abgespeichert und wird diese Information vorm "Secret" Curt gegen ihn verwenden (Wirst Case siehe Zeitungsartikel: "Polizist erschiesst Patienten im Neptun Brunnen", Berlin). Und logischerweise nimmt man den Menschen dann ins CC seit 10 Jahren und hofft, dass er mal Stellung nehmen wird, auserdem ist das wieder ein Fehler im System, somit eine Gefahrenquelle und als Autist bleibt einem dann der Zynismus (invitedMyself.PNG, logischwerise geht man nicht feiwillig auf eine Anklagebank oder in ein Verhör, insbesondere wenn man weiss dass einem alles angehängt wurde)
+
+All die alten Informatiker die Kurz vor der Pension stehen haben all diese Dinge selber nicht im Griff. bzw nicht selber im Griff und deren Konzept seit mindestens 1999 ist es z.B. den 20 jährigen Informatiker "Notfalls" als Sündenbock zu "verwenden" (Klammern verwende ich auch oft Zynisch, das verwenden wäre logischerweise ein missbrauchen, aber dann aktivieren die wieder "Diverses Unheil" gegen mich)
+
+[1] Google: firefox mouse gesture recognition
+https://www.google.com/search?q=firefox+mouse+gesture+recognition
+
+
+Wichtigste Frage:
+= = = = = = = = =
+Bekomme ich noch ein bisschen Aufschub, ich würde gerne den Fehler auf meinem Windows Endpoint (der noch ungefähr identisch ist) reproduzieren.
+
+Addendum:
+scheinbar hat der Mist auch Zugriff auf meinen Computer, die Datei ist wieder mal weg und beim Suchen aktiviert wieder induzierte Epilepsie und ich versuche mich dann "selber" abzustechen. Also ist zu erwarten, dass der Werner D. und/oder Daniel W. über diesen Kanal alle Bürger im Kanton Aargau erreichen kann und das zum Cyber-Schlachthof umprogrammiert wurde.
+
+Mit freundlichen Grüssen
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+Neuenburgerstrasse 6
+5004 Aarau
+062 822 61 31
+078 674 15 32
+
