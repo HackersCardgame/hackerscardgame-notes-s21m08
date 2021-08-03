@@ -149,4 +149,9 @@ Tue Aug  3 03:16:09 CEST 2021
 die haben sich auch schon wieder an meine geänderten tagesabläufe angepasst, so etwas wie pädokriminelle wing-man's (ausdruck aus xWing)
 
 
+Tue Aug  3 03:16:58 CEST 2021
+ 152  967 7163 20210803.txt
+[main 3a5ea06] save
+ 1 file changed, 4 insertions(+)
+34713b3de278f2da38fa247a45fc9763bba5d0f9572080ba00dae77195b8ae7dd6dc4ba6487e28fabd4198a664e52026c1eda9eb61e16775aca7fabac03114db  20210803.txt
 
