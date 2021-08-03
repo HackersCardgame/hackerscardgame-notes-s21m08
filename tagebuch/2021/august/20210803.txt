@@ -238,4 +238,9 @@ also sobald einer der täter auffliegt oder ein konzept der täerschaft schalten
 
 [1] joseph weizenbaum: krieg ist der feind
 
+Tue Aug  3 06:34:43 CEST 2021
+  241  1634 12436 20210803.txt
+[main c79b2c2] save
+ 1 file changed, 5 insertions(+)
+cd766141f0672677cff737e12c4068eb7da119a0c1ec53196cfe42d0ce5cb2bff07c3f7f32adaac050d6bd33c71a355c1986532d31e4560e937665f8a5501dfc  20210803.txt
 
