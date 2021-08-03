@@ -192,4 +192,9 @@ Tue Aug  3 05:08:31 CEST 2021
 1dd9285758fa670174633ff2e6c244678838da5ad971b18b4202beb7886c5299bb473c136ce113143625569f662cf55fc8a9c3be691a2e5357d76f79e3e2c0a4  20210803.txt
 
 seit 10 jahren seit dem gerichtsfall mit urs blum wird behauptet disso (icd10 f44.x) sei dazu da zu verhindern dass opfer und zeugen wie ich drauf gehe, das ist aber meiner mienung dazu da dass die täter zeit haben sich zu verdürcken
+Tue Aug  3 05:10:25 CEST 2021
+ 195 1322 9921 20210803.txt
+[main 6fb5f26] save
+ 1 file changed, 2 insertions(+)
+6c2e70b91f480a9edd633e2b905ef81df8559846e21eb3118f319114a2d1c6a6738a19848fe56e070d701b5be4d56db495f376fc68a9c4cd7fc9f9a744f00dc1  20210803.txt
 
