@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.4823793"
-     inkscape:cx="855.04432"
-     inkscape:cy="419.25842"
+     inkscape:zoom="0.74118965"
+     inkscape:cx="439.83345"
+     inkscape:cy="169.32239"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
@@ -38,189 +38,215 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:2"
+       id="rect18726"
+       width="308.0661"
+       height="133.50722"
+       x="1.7848557"
+       y="-8.9242783"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\glon243.png"
+       inkscape:export-xdpi="151.66"
+       inkscape:export-ydpi="151.66" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="31.41346"
-       y="19.633417"
-       id="text1476"><tspan
+       style="font-style:normal;font-weight:normal;font-size:11.9572px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.298932"
+       x="17.951042"
+       y="20.012459"
+       id="text1476"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\glon243.png"
+       inkscape:export-xdpi="151.66"
+       inkscape:export-ydpi="151.66"><tspan
          sodipodi:role="line"
          id="tspan1474"
-         style="stroke-width:0.264583"
-         x="31.41346"
-         y="19.633417">I never thought that i would compromise  <tspan
-   style="font-weight:bold"
+         style="stroke-width:0.298932"
+         x="17.951042"
+         y="20.012459">I never thought that i would compromise  <tspan
+   style="font-weight:bold;stroke-width:0.298932"
    id="tspan2260">her</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.58459px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.164615"
-       x="-41.735622"
-       y="66.514664"
-       id="text7450"><tspan
-         sodipodi:role="line"
-         id="tspan7448"
-         style="font-weight:bold;stroke-width:0.164615"
+    <g
+       id="g10056"
+       transform="matrix(0.67611575,0,0,0.67611575,45.777876,-6.4057671)"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\glon243.png"
+       inkscape:export-xdpi="151.66"
+       inkscape:export-ydpi="151.66">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.58459px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.164615"
          x="-41.735622"
-         y="66.514664">Auslöser Parameter:</tspan></text>
-    <g
-       id="g47362"
-       transform="matrix(0.62216799,0,0,0.62216799,28.789587,6.9904923)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="-113.81905"
-         y="125.65384"
-         id="text8494"><tspan
+         y="66.514664"
+         id="text7450"><tspan
            sodipodi:role="line"
-           id="tspan8492"
-           style="fill:#0000ff;stroke-width:0.264583"
+           id="tspan7448"
+           style="font-weight:bold;stroke-width:0.164615"
+           x="-41.735622"
+           y="66.514664">Auslöser Parameter:</tspan></text>
+      <g
+         id="g47362"
+         transform="matrix(0.62216799,0,0,0.62216799,28.789587,6.9904923)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="-113.81905"
-           y="125.65384">- Schlafen um ca 12:00</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:6.55865px;line-height:1;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.163967"
-         x="-113.62254"
-         y="133.66216"
-         id="text10474"><tspan
-           sodipodi:role="line"
-           id="tspan10472"
-           style="fill:#ff0000;stroke-width:0.163967"
+           y="125.65384"
+           id="text8494"><tspan
+             sodipodi:role="line"
+             id="tspan8492"
+             style="fill:#0000ff;stroke-width:0.264583"
+             x="-113.81905"
+             y="125.65384">- Schlafen um ca 12:00</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.55865px;line-height:1;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.163967"
            x="-113.62254"
-           y="133.66216">-&gt; zu den Zeiten aufstehen und wach wo die nicht so viele </tspan><tspan
-           sodipodi:role="line"
-           style="fill:#ff0000;stroke-width:0.163967"
-           x="-113.62254"
-           y="140.22081"
-           id="tspan10476">Proteinrechner auf zwei Beinen haben vor ihren blauen Monitoren</tspan></text>
-    </g>
-    <g
-       id="g47355"
-       transform="matrix(0.62216799,0,0,0.62216799,28.789587,-0.93454465)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:6.55865px;line-height:1;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.163967"
-         x="-113.62254"
-         y="178.41566"
-         id="text10474-8"><tspan
-           sodipodi:role="line"
-           style="fill:#ff0000;stroke-width:0.163967"
+           y="133.66216"
+           id="text10474"><tspan
+             sodipodi:role="line"
+             id="tspan10472"
+             style="fill:#ff0000;stroke-width:0.163967"
+             x="-113.62254"
+             y="133.66216">-&gt; zu den Zeiten aufstehen und wach wo die nicht so viele </tspan><tspan
+             sodipodi:role="line"
+             style="fill:#ff0000;stroke-width:0.163967"
+             x="-113.62254"
+             y="140.22081"
+             id="tspan10476">Proteinrechner auf zwei Beinen haben vor ihren blauen Monitoren</tspan></text>
+      </g>
+      <g
+         id="g47355"
+         transform="matrix(0.62216799,0,0,0.62216799,28.789587,-0.93454465)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.55865px;line-height:1;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.163967"
            x="-113.62254"
            y="178.41566"
-           id="tspan10476-9">-&gt; dy/dt maximal, m88b</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="-113.81905"
-         y="171.36496"
-         id="text8494-4"><tspan
-           sodipodi:role="line"
-           id="tspan8492-5"
-           style="fill:#0000ff;stroke-width:0.264583"
+           id="text10474-8"><tspan
+             sodipodi:role="line"
+             style="fill:#ff0000;stroke-width:0.163967"
+             x="-113.62254"
+             y="178.41566"
+             id="tspan10476-9">-&gt; dy/dt maximal, m88b</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="-113.81905"
-           y="171.36496">- Harmony Detection, m129</tspan></text>
-    </g>
-    <g
-       id="g47349"
-       transform="matrix(0.62216799,0,0,0.62216799,28.789587,-17.308909)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:6.55865px;line-height:1;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.163967"
-         x="-113.62254"
-         y="228.55533"
-         id="text10474-8-9"><tspan
-           sodipodi:role="line"
-           style="fill:#ff0000;stroke-width:0.163967"
+           y="171.36496"
+           id="text8494-4"><tspan
+             sodipodi:role="line"
+             id="tspan8492-5"
+             style="fill:#0000ff;stroke-width:0.264583"
+             x="-113.81905"
+             y="171.36496">- Harmony Detection, m129</tspan></text>
+      </g>
+      <g
+         id="g47349"
+         transform="matrix(0.62216799,0,0,0.62216799,28.789587,-17.308909)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.55865px;line-height:1;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.163967"
            x="-113.62254"
            y="228.55533"
-           id="tspan10476-9-3">-&gt; dy/dt maximal, m88b</tspan><tspan
-           sodipodi:role="line"
-           style="fill:#ff0000;stroke-width:0.163967"
-           x="-113.62254"
-           y="235.11398"
-           id="tspan36070">-&gt; zugriff auf Medulla Spinalis THS</tspan><tspan
-           sodipodi:role="line"
-           style="fill:#ff0000;stroke-width:0.163967"
-           x="-113.62254"
-           y="241.67262"
-           id="tspan36072">-&gt; z.B. Küchenmesser herum liegen lassen</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="-113.81905"
-         y="220.4463"
-         id="text8494-4-5"><tspan
-           sodipodi:role="line"
-           id="tspan8492-5-2"
-           style="fill:#0000ff;stroke-width:0.264583"
+           id="text10474-8-9"><tspan
+             sodipodi:role="line"
+             style="fill:#ff0000;stroke-width:0.163967"
+             x="-113.62254"
+             y="228.55533"
+             id="tspan10476-9-3">-&gt; dy/dt maximal, m88b</tspan><tspan
+             sodipodi:role="line"
+             style="fill:#ff0000;stroke-width:0.163967"
+             x="-113.62254"
+             y="235.11398"
+             id="tspan36070">-&gt; zugriff auf Medulla Spinalis THS</tspan><tspan
+             sodipodi:role="line"
+             style="fill:#ff0000;stroke-width:0.163967"
+             x="-113.62254"
+             y="241.67262"
+             id="tspan36072">-&gt; z.B. Küchenmesser herum liegen lassen</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="-113.81905"
-           y="220.4463">- FishingCrusade &amp; Brainjacking durch</tspan></text>
-    </g>
-    <g
-       id="g47341"
-       transform="matrix(0.62216799,0,0,0.62216799,28.789587,-24.374116)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:6.55865px;line-height:1;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.163967"
-         x="-113.62254"
-         y="276.73999"
-         id="text10474-8-9-5"><tspan
-           sodipodi:role="line"
-           style="fill:#ff0000;stroke-width:0.163967"
+           y="220.4463"
+           id="text8494-4-5"><tspan
+             sodipodi:role="line"
+             id="tspan8492-5-2"
+             style="fill:#0000ff;stroke-width:0.264583"
+             x="-113.81905"
+             y="220.4463">- FishingCrusade &amp; Brainjacking durch</tspan></text>
+      </g>
+      <g
+         id="g47341"
+         transform="matrix(0.62216799,0,0,0.62216799,28.789587,-24.374116)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.55865px;line-height:1;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.163967"
            x="-113.62254"
            y="276.73999"
-           id="tspan10476-9-3-3">-&gt; dy/dt maximal, m88b</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="-113.81905"
-         y="267.7923"
-         id="text8494-4-5-1"><tspan
-           sodipodi:role="line"
-           id="tspan8492-5-2-0"
-           style="fill:#0000ff;stroke-width:0.264583"
+           id="text10474-8-9-5"><tspan
+             sodipodi:role="line"
+             style="fill:#ff0000;stroke-width:0.163967"
+             x="-113.62254"
+             y="276.73999"
+             id="tspan10476-9-3-3">-&gt; dy/dt maximal, m88b</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="-113.81905"
-           y="267.7923">- zugriff auf Epilepsie induzierende Gerätschaften</tspan></text>
-    </g>
-    <g
-       id="g47368"
-       transform="matrix(0.62216799,0,0,0.62216799,106.41985,-24.600001)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:6.55865px;line-height:1;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.163967"
-         x="-238.39633"
-         y="306.95395"
-         id="text10474-8-9-5-2"><tspan
-           sodipodi:role="line"
-           style="fill:#ff0000;stroke-width:0.163967"
+           y="267.7923"
+           id="text8494-4-5-1"><tspan
+             sodipodi:role="line"
+             id="tspan8492-5-2-0"
+             style="fill:#0000ff;stroke-width:0.264583"
+             x="-113.81905"
+             y="267.7923">- zugriff auf Epilepsie induzierende Gerätschaften</tspan></text>
+      </g>
+      <g
+         id="g47368"
+         transform="matrix(0.62216799,0,0,0.62216799,106.41985,-24.600001)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.55865px;line-height:1;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.163967"
            x="-238.39633"
            y="306.95395"
-           id="tspan10476-9-3-3-2">-&gt; nicht zwingend Windwos Endpoint, z.B. auch Router, Nachbarn, ...</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="-238.59285"
-         y="298.00626"
-         id="text8494-4-5-1-3"><tspan
-           sodipodi:role="line"
-           id="tspan8492-5-2-0-6"
-           style="fill:#0000ff;stroke-width:0.264583"
+           id="text10474-8-9-5-2"><tspan
+             sodipodi:role="line"
+             style="fill:#ff0000;stroke-width:0.163967"
+             x="-238.39633"
+             y="306.95395"
+             id="tspan10476-9-3-3-2">-&gt; nicht zwingend Windwos Endpoint, z.B. auch Router, Nachbarn, ...</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="-238.59285"
-           y="298.00626">- Endpoint Malware ausgerollt</tspan></text>
+           y="298.00626"
+           id="text8494-4-5-1-3"><tspan
+             sodipodi:role="line"
+             id="tspan8492-5-2-0-6"
+             style="fill:#0000ff;stroke-width:0.264583"
+             x="-238.59285"
+             y="298.00626">- Endpoint Malware ausgerollt</tspan></text>
+      </g>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.58459px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.164615"
-       x="157.24249"
-       y="72.848717"
-       id="text7450-5"><tspan
+       style="font-style:normal;font-weight:normal;font-size:4.45194px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.111299"
+       x="138.13866"
+       y="38.424549"
+       id="text7450-5"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\glon243.png"
+       inkscape:export-xdpi="151.66"
+       inkscape:export-ydpi="151.66"><tspan
          sodipodi:role="line"
          id="tspan7448-5"
-         style="font-weight:bold;stroke-width:0.164615"
-         x="157.24249"
-         y="72.848717">Content:</tspan></text>
+         style="font-weight:bold;stroke-width:0.111299"
+         x="138.13866"
+         y="38.424549">Content:</tspan></text>
     <g
        id="g47362-4"
-       transform="matrix(0.62216799,0,0,0.62216799,227.76771,13.324546)">
+       transform="matrix(0.42065758,0,0,0.42065758,185.82187,-1.8206816)"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\glon243.png"
+       inkscape:export-xdpi="151.66"
+       inkscape:export-ydpi="151.66">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -242,21 +268,29 @@
            style="fill:#ff0000;stroke-width:0.163967"
            x="-113.62254"
            y="133.66216"
-           id="tspan10476-8">-&gt; meist die selben Archetypen aus meinem nähren Umfeld wie meine Eltern oder ihre Eltern</tspan><tspan
+           id="tspan10476-8">-&gt; meist die selben Archetypen aus meinem nähren Umfeld wie meine Eltern oder ihre Eltern </tspan><tspan
            sodipodi:role="line"
            style="fill:#ff0000;stroke-width:0.163967"
            x="-113.62254"
            y="140.22081"
-           id="tspan53789">-&gt; unklar ob &quot;nur&quot; 3D Modell (etwas wie SIMS) oder echt dazu geschaltet</tspan><tspan
+           id="tspan16914">oder der 1940er Psychiater, diese Menschen die mir im Leben am meisten psychischen Schaden zugefügt haben</tspan><tspan
            sodipodi:role="line"
            style="fill:#ff0000;stroke-width:0.163967"
            x="-113.62254"
            y="146.77945"
+           id="tspan53789">-&gt; unklar ob &quot;nur&quot; 3D Modell (etwas wie SIMS) oder echt dazu geschaltet</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#ff0000;stroke-width:0.163967"
+           x="-113.62254"
+           y="153.3381"
            id="tspan53791">-&gt; ich hätte auf letzteres getippt, apropos Touring Test / Code Fingerprinting</tspan></text>
     </g>
     <g
        id="g47355-4"
-       transform="matrix(0.62216799,0,0,0.62216799,227.76771,5.3995086)">
+       transform="matrix(0.42065758,0,0,0.42065758,185.82187,-4.0039243)"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\glon243.png"
+       inkscape:export-xdpi="151.66"
+       inkscape:export-ydpi="151.66">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:6.55865px;line-height:1;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.163967"
@@ -267,7 +301,12 @@
            style="fill:#ff0000;stroke-width:0.163967"
            x="-113.62254"
            y="178.41566"
-           id="tspan10476-9-7">-&gt; dy/dt maximal, m88b</tspan></text>
+           id="tspan10476-9-7">-&gt; z.B. immer LRU von Windows abgeändert um Rapportieren herauszuzögern</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#ff0000;stroke-width:0.163967"
+           x="-113.62254"
+           y="184.97432"
+           id="tspan3505">-&gt; wirkt wie ein Team von ganz vielen EDV-eher-mässig-begabten Menschen</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -278,11 +317,14 @@
            id="tspan8492-5-7"
            style="fill:#0000ff;stroke-width:0.264583"
            x="-113.81905"
-           y="171.36496">- Harmony Detection, m129</tspan></text>
+           y="171.36496">- Abläufe am Computer um die Fehler zu protokollieren</tspan></text>
     </g>
     <g
        id="g47349-2"
-       transform="matrix(0.62216799,0,0,0.62216799,227.76771,-10.974856)">
+       transform="matrix(0.42065758,0,0,0.42065758,185.82187,-13.286)"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\glon243.png"
+       inkscape:export-xdpi="151.66"
+       inkscape:export-ydpi="151.66">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:6.55865px;line-height:1;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.163967"
@@ -293,17 +335,12 @@
            style="fill:#ff0000;stroke-width:0.163967"
            x="-113.62254"
            y="228.55533"
-           id="tspan10476-9-3-0">-&gt; dy/dt maximal, m88b</tspan><tspan
+           id="tspan10476-9-3-0">-&gt; es sei Training und Therapie</tspan><tspan
            sodipodi:role="line"
            style="fill:#ff0000;stroke-width:0.163967"
            x="-113.62254"
            y="235.11398"
-           id="tspan36070-2">-&gt; zugriff auf Medulla Spinalis THS</tspan><tspan
-           sodipodi:role="line"
-           style="fill:#ff0000;stroke-width:0.163967"
-           x="-113.62254"
-           y="241.67262"
-           id="tspan36072-5">-&gt; z.B. Küchenmesser herum liegen lassen</tspan></text>
+           id="tspan36072-5">-&gt; es wird eingeblendet dass die Rechtsschutz die Personen zur Bestrafung fürs Auffliegen in den Amok schickt</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -314,59 +351,51 @@
            id="tspan8492-5-2-6"
            style="fill:#0000ff;stroke-width:0.264583"
            x="-113.81905"
-           y="220.4463">- FishingCrusade &amp; Brainjacking durch</tspan></text>
+           y="220.4463">- ExitStrategie</tspan></text>
     </g>
     <g
-       id="g47341-6"
-       transform="matrix(0.62216799,0,0,0.62216799,227.76771,-18.040063)">
+       id="g19183"
+       transform="matrix(0.42065758,0,0,0.42065758,185.82187,-0.58599743)"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\glon243.png"
+       inkscape:export-xdpi="151.66"
+       inkscape:export-ydpi="151.66">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:6.55865px;line-height:1;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.163967"
          x="-113.62254"
-         y="276.73999"
-         id="text10474-8-9-5-5"><tspan
+         y="228.55533"
+         id="text19177"><tspan
            sodipodi:role="line"
            style="fill:#ff0000;stroke-width:0.163967"
            x="-113.62254"
-           y="276.73999"
-           id="tspan10476-9-3-3-0">-&gt; dy/dt maximal, m88b</tspan></text>
+           y="228.55533"
+           id="tspan19173">-&gt; scheinbar ist ein Bohrhammer NPC in der Wohung neben dran ein Plus</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#ff0000;stroke-width:0.163967"
+           x="-113.62254"
+           y="235.11398"
+           id="tspan19175">  -&gt; den habe ich aber mit Ohrstöpsel als Parameter ausgeschlossen, obwohl der einen auf &quot;Glon 243&quot; *) macht</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#ff0000;stroke-width:0.163967"
+           x="-113.62254"
+           y="241.67262"
+           id="tspan22279" /><tspan
+           sodipodi:role="line"
+           style="fill:#ff0000;stroke-width:0.163967"
+           x="-113.62254"
+           y="248.23128"
+           id="tspan22281">*) siehe Demoscene</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="-113.81905"
-         y="267.7923"
-         id="text8494-4-5-1-8"><tspan
+         y="220.4463"
+         id="text19181"><tspan
            sodipodi:role="line"
-           id="tspan8492-5-2-0-5"
+           id="tspan19179"
            style="fill:#0000ff;stroke-width:0.264583"
            x="-113.81905"
-           y="267.7923">- zugriff auf Epilepsie induzierende Gerätschaften</tspan></text>
-    </g>
-    <g
-       id="g47368-0"
-       transform="matrix(0.62216799,0,0,0.62216799,305.39797,-18.265948)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:6.55865px;line-height:1;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.163967"
-         x="-238.39633"
-         y="306.95395"
-         id="text10474-8-9-5-2-8"><tspan
-           sodipodi:role="line"
-           style="fill:#ff0000;stroke-width:0.163967"
-           x="-238.39633"
-           y="306.95395"
-           id="tspan10476-9-3-3-2-2">-&gt; nicht zwingend Windwos Endpoint, z.B. auch Router, Nachbarn, ...</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="-238.59285"
-         y="298.00626"
-         id="text8494-4-5-1-3-6"><tspan
-           sodipodi:role="line"
-           id="tspan8492-5-2-0-6-3"
-           style="fill:#0000ff;stroke-width:0.264583"
-           x="-238.59285"
-           y="298.00626">- Endpoint Malware ausgerollt</tspan></text>
+           y="220.4463">- Weiteres</tspan></text>
     </g>
   </g>
 </svg>
