@@ -20,4 +20,9 @@ also deren kokain funktioniert auch nur wenn die systeme bei den patienten gehac
 
 -> somit müsste man jetzt denen grad den trip versauen, dann wäre das therapeutisch für die konsumenten
 
+Wed Aug  4 23:04:37 CEST 2021
+ 23 113 748 20210805.txt
+[main d170f2e] save
+ 1 file changed, 5 insertions(+), 6 deletions(-)
+b5ae9c2e4a98002e2c5f3b11505b82b923f4ea2066ecd4e65ec28d7f33f89eea33aab510084caac5f3a6d270305ba7c0d445e6c0bf81097bfa262c2bb35c700f  20210805.txt
 
