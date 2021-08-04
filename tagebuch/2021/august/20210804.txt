@@ -46,4 +46,9 @@ ABER eigentlich war es Marc-Georg Landolt (1950) der mit dem Ledergürtel auf me
 
 da würde ich gerne wissen ob der Psychiater direkt für Georg Landolt zu meinen Ungunsten ein Gefälligkeitsgutachten ausgestellt hat oder ob das noch um sieben umwege ging?
 
+Wed Aug  4 11:58:26 CEST 2021
+  49  348 2207 20210804.txt
+[main 1da2d31] save
+ 1 file changed, 15 insertions(+)
+7a96b6861887d15e3694a0636cfbe53ea73e49a4bcce76a7f8b7774af088fb38fa9a2fbb90d8197b6508f59987eb6ea96d842ac771ebaa5ed9b86406c5ae990a  20210804.txt
 
