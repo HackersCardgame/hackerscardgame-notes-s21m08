@@ -39,4 +39,9 @@ die kinder sind die täter, sie haben zB. den abfall kübel immer noch einen cm 
 
 da könnte man wenn man das weiss ohne hörbaren zynismus sagen "ihc hasse kinder" um zu schauen welche der 1950er elter zu dieser sorte von menshen gehören, aka rorschachtest
 
+Wed Aug  4 23:17:25 CEST 2021
+  42  212 1482 20210805.txt
+[main 97b22d2] save
+ 1 file changed, 14 insertions(+)
+6976cb7f7c4d1361dacece861dd060f83e67c3e5c5adfc6430e985552a3e8803a2a5841e2f5f3e8c420abfc58ecbca46f8cac3c42965044aa5c8d6fc5eb5430c  20210805.txt
 
