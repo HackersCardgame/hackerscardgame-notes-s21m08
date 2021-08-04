@@ -144,4 +144,11 @@ ich mache das seit ein paar jahren statt rasieren mit der klinge oder apparat
 
 5. man geht beim beheben fast jedes mal fast drauf
 
+Wed Aug  4 13:52:10 CEST 2021
+ 147 1176 8282 20210804.txt
+[main 57be053] save
+ 3 files changed, 16 insertions(+)
+ create mode 100755 rC3/ChemitrodenOptischInkorrekt12-02.PNG
+ create mode 100755 rC3/ChemitrodenOptischInkorrekt12.PNG
+f5010a25bb769471d2fc192ed6307807f770174b7199efc0b0874b5116eeafb5edcab2eeab1e9e84469a4bc2ea2f4b34ef946b7db2d4bc53172d8ee4d313bc26  20210804.txt
 
