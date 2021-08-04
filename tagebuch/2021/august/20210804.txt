@@ -76,4 +76,9 @@ das wird jetzt unlocked mit hahah wir habens gelöscht damit das mit dem minimax
 
 bzw. seroquäl <-> gequält war allenfalls auch ein overlay
 
+Wed Aug  4 12:37:13 CEST 2021
+  79  685 4572 20210804.txt
+[main 6860d0e] save
+ 1 file changed, 6 insertions(+)
+fe379ff4fef007a6a82a4e29e841233cf063491f66e92407b45ae9c87ee01b9018de4e2c40f691f60397567689cd8e8c4baf43633d46d62557947f8761034147  20210804.txt
 
