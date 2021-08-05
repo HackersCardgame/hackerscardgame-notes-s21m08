@@ -102,9 +102,6 @@ weiss das grad jemand, bzw. wenn ich zeit hätte könnte ich das im src von git 
 
 repository insgeheim austauschen mit inklusive einer modifkation die dann nicht mehr in der history sichtbar ist?
 
-Thu Aug  5 12:30:15 CEST 2021
- 105  705 5084 20210805.txt
-[main fc9a59c] save
- 1 file changed, 2 insertions(+), 41 deletions(-)
-aa0679f9cbc3d50e58259d5dc915ac1fc2da15147eb3b5b7ca2cfd8e81c67215cebe2ccfff2d61f2e957e8b6e1592fe189d2788876eb2bc3f5a7aa418d540355  20210805.txt
+rechtsverdreher vs git?
+
 
