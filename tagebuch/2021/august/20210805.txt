@@ -48,4 +48,9 @@ Thu Aug  5 03:19:55 CEST 2021
 
 dann weiss das grad jemand, wenn man krebs bestrahlt oder einen linux pinguin zum roasted chicken "upgraded" gibt es ja im er einen punkt wo die strahlung ihr maximum hat, ist da (tensoren hexerei) zu erwarten, dass des nur einen punkt gibt oder rund herum z.B. auch noch z.B weitere kleinere punkte???
 
+Thu Aug  5 03:21:05 CEST 2021
+  51  285 1926 20210805.txt
+[main 06429e7] save
+ 1 file changed, 5 insertions(+)
+49b8cf3fc5c777a609aaf268eb7cd09b579bf12d6e62c2a1c1ca2bad6655670ca3b142422739d409c4b779c36fcc08d9da4f8f79e046f0a3da282a68f777033b  20210805.txt
 
