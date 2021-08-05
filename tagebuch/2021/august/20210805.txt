@@ -73,4 +73,9 @@ Eltern-Abend = Keysigning party
 georg landolt wo dominik noch hier gewohnt hat: hahaha wir haben jetzt geruchsfernsehen => Somit wäre das etwas wie eine remote aktivierbare eZigarette mit verschiednene gerüchen...
 
 
+Thu Aug  5 04:18:05 CEST 2021
+  76  425 3088 20210805.txt
+[main e853576] save
+ 1 file changed, 7 insertions(+)
+5c365e0ea3656e6b6fe452914e6cfb5a1909bdd15dd6fb463f0e614a477ba2507e08eb87f8637404f34ad941e0a2282b56e82cd465551010596db1ae70291922  20210805.txt
 
