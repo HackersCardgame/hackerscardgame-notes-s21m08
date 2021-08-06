@@ -30,4 +30,9 @@ $$ <- ecriture autmatique: lösegeldforderung <- lösegeldforderungen && suizid 
 
 
 
+Fri Aug  6 02:58:34 CEST 2021
+  33  237 1748 20210806.txt
+[main 21f9db2] save
+ 1 file changed, 7 insertions(+)
+ffad1d4293fc696158da5b47e2f25a2a6abf84e42b4984cab892d95b5590c27fb02818809002f0caad9bfd3875650cc7e5509448f288fe6b255ef90ecbe7ac5e  20210806.txt
 
