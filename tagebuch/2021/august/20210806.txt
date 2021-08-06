@@ -128,3 +128,6 @@ Fri Aug  6 04:55:56 CEST 2021
  1 file changed, 13 insertions(+)
 b6701f92f062ec0be0864cfbac7da96efc0f6d121d3f2281078802471d7b69ac52dbea3037e8f44915a16fc2b015e303bd30e4dc1ca845c11fba5af03425f805  20210806.txt
 
+algorithmus könnte z.B. sein "für jeden weg aktivierbare sprengfallen" wo dann mti etwas wie dem graident descent algi versucht wird mich in diese trap zu steuern, und da dann epilepsie einschaltet und so suizid induzieren möchte
+
+
