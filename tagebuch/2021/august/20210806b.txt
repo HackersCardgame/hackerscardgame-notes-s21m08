@@ -20,4 +20,9 @@ relevanter: [3] ebd. ich wurde als Sündenbock prepariert und missbraucht, mittl
 
 [3] wie afaik der Michel E. von der ABB gesagt hat "hahaha ein konto wo jeder (ungehört: seine taten) drauf buchen kann <- pivot element pfadi && ABB <- härdi?
 
+Fri Aug  6 10:41:04 CEST 2021
+  23  522 3454 20210806b.txt
+[main fe94269] save
+ 1 file changed, 6 insertions(+), 8 deletions(-)
+05c91a77a8df60ac01151f9d789121bba63a6ea96f80f09ff54cdce85111006b14c8f80cd30432c5c5498d9503d47f0ac46cad4ed2980e1d0080f9a242940399  20210806b.txt
 
