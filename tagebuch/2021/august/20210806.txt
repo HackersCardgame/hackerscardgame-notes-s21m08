@@ -164,4 +164,9 @@ somit sind die cyberwaffen dazu da, dass wenn es der täterschaft "den nuggi rau
 
 somit ist es auch urs der mit amoklauf droht, also so zu sagen amoklufer mit offizierstitel in sequenz...
 
+Fri Aug  6 05:17:38 CEST 2021
+ 167 1135 8914 20210806.txt
+[main 65e93b7] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+0832cd2c40d5d2bcb89a4f29555fa38219de5d66ec8ca80f8593d13a36c4a82d329248cbd9e8f9d091df9bb35bea96c6b2dff9c2880993aa67533a48229a4038  20210806.txt
 
