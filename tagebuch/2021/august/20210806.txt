@@ -48,4 +48,9 @@ Fri Aug  6 02:59:21 CEST 2021
 
 also nach dem ersten mord kommt man ins oxa/zürich versichrung und der kreis im logo stellt den blut"blaken" dar, bzw. mahnmahl für den mord und auf kokain überlegenheitsgefühe?
 
+Fri Aug  6 03:01:40 CEST 2021
+  51  327 2594 20210806.txt
+[main af1f7b7] save
+ 1 file changed, 4 insertions(+)
+41db270aa0c30bf32ff2bf77229844c8f7eeee333e2428e8cc3f591119ab652ea0980ccf0a294710d29b3819f648428db39eb0b602d83ae40121b8b1b37e9e4b  20210806.txt
 
