@@ -11,13 +11,13 @@ pactl load-module module-loopback latency_msec=1
 
 
 #jamulus -c 192.168.192.234:6543 &
-Jamulus -c 192.168.192.234 &
+#Jamulus -c 192.168.192.234 &
 
 #mixxx &
 
 guitarix &
 
-#obs &
+obs &
 
 #orca &
 

@@ -1,0 +1,25 @@
+<!DOCTYPE patchbay>
+<patchbay name="default" version="0.9.1">
+ <output-sockets>
+  <socket exclusive="off" name="system 1" client="system" type="jack-audio">
+   <plug>capture_1</plug>
+   <plug>capture_2</plug>
+  </socket>
+ </output-sockets>
+ <input-sockets>
+  <socket exclusive="off" name="PulseAudio\ JACK\ Source 1" client="PulseAudio\ JACK\ Source" type="jack-audio">
+   <plug>front\-left</plug>
+   <plug>front\-right</plug>
+  </socket>
+  <socket exclusive="off" name="JACK\ Input\ Client 1" client="JACK\ Input\ Client" type="jack-audio">
+   <plug>in_1</plug>
+   <plug>in_2</plug>
+  </socket>
+ </input-sockets>
+ <slots/>
+ <cables>
+  <cable output="system 1" type="jack-audio" input="PulseAudio\ JACK\ Source 1"/>
+  <cable output="system 1" type="jack-audio" input="JACK\ Input\ Client 1"/>
+ </cables>
+</patchbay>
+
