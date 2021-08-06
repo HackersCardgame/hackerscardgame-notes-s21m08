@@ -78,3 +78,20 @@ Fri Aug  6 03:42:53 CEST 2021
  1 file changed, 8 insertions(+)
 9d3f6cd09280a2e335aadf27fe06d1b457856e352bfb8916062baba6ae3c7bdc10117746b09d4e017e31337e057802636d9f846678eed2400e94840e9e1c0999  20210806.txt
 
+
+disassembly:
+
+richtiger weg
+
+ | - pavlov stimuli
+ | - cyberwürgekette
+ | - epilepsie
+ | - vergewaltigungsandrohung
+ v
+ loop { kurzzeit gedächntnis löschen; audio sample "du bist unfähig" }
+ |
+ |
+ v
+ Urs blum/sprachsynthese: "orlando läuft jetzt amok"
+
+
