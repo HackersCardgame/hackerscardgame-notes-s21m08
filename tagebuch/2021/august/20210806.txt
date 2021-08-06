@@ -57,4 +57,9 @@ Fri Aug  6 03:01:40 CEST 2021
 
 also das wäre somit etwas militärsiches wo jedem mörder ein ding von mir zugeordnet wird dass er sabitieren und sabotiert halten muss, und wenn ich es repariere wird er vom vorgestezten betsraft?
 
+Fri Aug  6 03:06:20 CEST 2021
+  60  379 3050 20210806.txt
+[main 6e8060f] save
+ 1 file changed, 4 insertions(+)
+9b03031c430254451a5c020fc054afdfc5b707f753428f117fb4408248223234a9d390f6390cf8ea667cdaae6357e72aacff5e11c5271e629a74b9eb16a3bea8  20210806.txt
 
