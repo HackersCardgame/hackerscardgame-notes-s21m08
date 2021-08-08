@@ -222,4 +222,9 @@ nerv, nerv, nerv, nerv, nerv, nerv, nerv, nerv, nerv, nerv, der mongo von einem 
 3. urs zwingt diese leute mit einem leak über mich dazu mich auch angreifen zu müssen
 4. diese gruppe weiss jetzt, dass sie dem urs blum mit seinen "blablabal zwei spezeiell gesichteren termnials" nicht trauen kann und dass sie sich gegenseitig nicht trauen können
 
+Sun Aug  8 15:04:29 CEST 2021
+  225  1447 10497 20210808.txt
+[main c400676] save
+ 1 file changed, 14 insertions(+)
+11fcdc20f37a8c8a5dabab6736ca2cd549900edceecf9a5057c4386e733b52f60a12a8fdf7e1d8d2f8750237348128823d01f31a241937e12df412eea7fa20cc  20210808.txt
 
