@@ -13,4 +13,10 @@ d) im sinne dass man für alles karama als ausrede vernweden kann
 
 dann ist der cia chef irgendwann mal angeblich ein poker mensch gewesen, also access mit der neuen währung, strafakten und so auch macht, aber wäre nicht der systembetreiber (der hoffeentlich autist ist und vorallem an system stabilität denkt) nicht die mächtigere karte als der mächtisgste poker spieler?
 
+Sun Aug  8 04:27:30 CEST 2021
+ 16  91 553 20210808.txt
+[main 95f0a25] save
+ 1 file changed, 16 insertions(+)
+ create mode 100644 tagebuch/2021/august/20210808.txt
+e323cbdd122e13dfcbf12d7c485aeadcacb161d8e141f5a751ea42fdf768a27ca018beb8094ba270205e9ef9d7c406bdd6c14dfe226feb209fd93a1d7692218d  20210808.txt
 
