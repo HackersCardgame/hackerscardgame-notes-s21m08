@@ -73,4 +73,9 @@ urs blum: sämtliche zuschauer in die luft sprengen <- ihc: das lassen wir dann 
 
 [2] morrdorhung gegen marvin (autist) <- die wissen wie ich funktioniere <-- mitten im satz <- zürich versichrung aufgeflogen => somit kann auf die zürich verishcung gbebucht werden
 
+Sun Aug  8 07:29:11 CEST 2021
+  76  401 3030 20210808.txt
+[main 084d671] save
+ 1 file changed, 6 insertions(+)
+28f07a423d691ef54af0fcb40b63bf46c563b0c03385a53b544f64783366beb5f406ecb26a9cf5f8079fdeaa90a4a68676f69066b6c525946be5878354343886  20210808.txt
 
