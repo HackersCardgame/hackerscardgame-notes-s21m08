@@ -94,4 +94,9 @@ ausserdem ist es eine exitstrategie / schutzbehauptung die dann sowieso urs blum
 
 [3] pfisterer bon = fr. gut <- gehäuchlet, die täter ahben ein grösseres terroinretzwerk hochzeogen
 
+Sun Aug  8 07:33:59 CEST 2021
+  97  537 4152 20210808.txt
+[main 55fc85a] save
+ 1 file changed, 6 insertions(+)
+6f1a745cf269b4ef31621f894eb482ca71a8f1d8b3abb71a5b869ea6b45ea31840064edb86537170002e1b81fb6f0df4edeef1f81b47319de6298dbf63d95486  20210808.txt
 
