@@ -62,4 +62,9 @@ weisse folter, straftatbestand
 urs blum:
 allen zuschauren wird jetzt von der zürich versichrung unterlassene hilfeleistung in ihre strafakte eingetragen <- ich: "lieber" mongo-urs, bist du wieder am psychologische kriegsführung unter kokain am betreiben?
 
+Sun Aug  8 07:27:19 CEST 2021
+  65  316 2368 20210808.txt
+[main 34cf1d3] save
+ 1 file changed, 26 insertions(+)
+164bfaa564b5ee168ae35d6e4444f1079bfb391684e5b82c7e557beb0417f42c842776f3ec24845825dbfa9bf648bd3b77f3eb601e4e8ee3a9bb9431fd3df2ed  20210808.txt
 
