@@ -83,4 +83,9 @@ Sun Aug  8 07:29:11 CEST 2021
 urs blum verteilt am samstag abend irgendwelche waffen, sprengfallen etc im nachtleben, dann weiss nur urs blum mit den zwei gesicherten terminals bei der züich versichrung wo die waffen sind und erpresst so access codes beim ksa?
 
 
+Sun Aug  8 07:31:59 CEST 2021
+  86  458 3520 20210808.txt
+[main c1ede08] save
+ 1 file changed, 5 insertions(+)
+0b6ec09bc5c46ac34f5bfffb5db4ceb300b0bacee3aafa3f552ef049dc5823dc97bded37c92d0db4e1798ebfac9246fae6334a823caa21ec77dbb8ee8b7533f1  20210808.txt
 
