@@ -13,4 +13,12 @@ ef5fbdc6c92eb72718f463d603675198d23ecc913c8ec9fb1eb57c4cfb1fb0e56bccf52e2c8d2fe7
 
 Furby 1.0 - Mode: me sleeeeeeeep again
 
+Mon Aug  9 14:52:04 CEST 2021
+ 16  59 535 20210809.txt
+[main 40a07c8] save
+ 4 files changed, 20 insertions(+)
+ create mode 100755 TODO/Brugg-sigint-comint-daher.txt
+ create mode 100755 TODO/keinOrigamiLiegestuhl.3gp
+ create mode 100644 TODO/keinOrigamiLiegestuhl.gif
+5677b99d8c1013dd38f4a35adc2df533ae0df3146c1688b1b6f8ab62a155e7895e473b503594479445bf0d3c2851b29a092ae1b7928941a214d442d8f4239ab0  20210809.txt
 
