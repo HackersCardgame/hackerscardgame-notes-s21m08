@@ -243,4 +243,9 @@ dann ist das allenfalls so etwas wie ein stillLeben, oder ein mini-stillLeben od
 
 bzw. die nicht-möngeli-mongos die bisschen älter sind als wir wie john hunter, julian, andy ... sind weder mit Lizenzverletzung noch mit möngeli-mongos gemeint, steht auch irgendwo wenn man es genau vollständig nimmt...
 
+Mon Aug  9 21:37:48 CEST 2021
+  246  2188 18359 allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
+[main 9a7bdda] save
+ 1 file changed, 11 insertions(+)
+78a24a4bead40558233cb35efcaa1674848c150a66312ce03b31d654a93b6125f52e8f1b8ed5732a99d383e0c13757a33714ee3f7a47cbed7bcf1575f9c78aeb  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
