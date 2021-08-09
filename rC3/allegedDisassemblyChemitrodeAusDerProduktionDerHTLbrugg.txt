@@ -206,4 +206,9 @@ reaktionszeit ca 100ms und ihc bin allenfalls dann immer kurz auf disso gestellt
 ‎Montag, ‎9. ‎August ‎2021, ‏‎18:06:22
 "yay" erst 3h 
 
+Mon Aug  9 20:38:44 CEST 2021
+  209  1882 15578 allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
+[main 5e8a621] save
+ 1 file changed, 2 deletions(-)
+d66b6d4e5c1760bea1b4dd3c1b13939cf00eed6322d3ee4e47929cc86b4d91ef8f6cc72a2e953407f19985daadcd4c20a5fd8501bec2057ea359473ead73e68b  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
