@@ -191,4 +191,9 @@ somit wüssten wird jetzt vermutlich das geheimnis vom fallschimr springen, das 
 => somit hätte ich vorgeschlagen all diese menschen mal auf die bank zu setzen und zu befragen
 
 
+Mon Aug  9 18:53:40 CEST 2021
+  194  1816 14911 allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
+[main 05e83e2] save
+ 1 file changed, 7 insertions(+)
+f1904b8fef17035782b7483b290301b97435db8a7860c0dc38cd0ba9441bd430b6005b2f3e7db186284d67ff616e5fd047bdefe4a5c2cb4de4c8566009107253  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
