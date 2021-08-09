@@ -227,4 +227,9 @@ Mon Aug  9 20:40:30 CEST 2021
 
 bzw: L201: istalleanfalls auch nicht so ein plastik, diese Dinger sind magnetisch, das klebt an der pinzette, die pinzette ist zwar chromstahl, aber mit dem magneten gesetste doch ein bisschen magnetisch, somti ist das irgend ein Metall somit muss dieses Projektil sowieso aus meinem gesicht raus, ausserdem das erste mal dass drei von diesen dingern drin waren
 
+Mon Aug  9 21:25:08 CEST 2021
+  230  2039 17065 allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
+[main 23938c6] save
+ 1 file changed, 4 insertions(+)
+2078bc55cd394691ac06985afaeee36c56d7223b43bf533f27b67fef05e4f4a87c8bced7c591db25eaffddfd2b067ce5697549a5b2284726c142af2a2b160833  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
