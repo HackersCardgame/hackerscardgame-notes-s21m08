@@ -4,4 +4,10 @@ Mon Aug  9 02:56:43 CEST 2021
 dann bin ich mir noch nicht ganz sicher, aber die betterien von conrad versand haben allenfalls eine remote-schnell-entlade-funktion...
 
 
+Mon Aug  9 02:57:18 CEST 2021
+  7  28 189 20210809.txt
+[main b345656] save
+ 1 file changed, 7 insertions(+)
+ create mode 100644 tagebuch/2021/august/20210809.txt
+ef5fbdc6c92eb72718f463d603675198d23ecc913c8ec9fb1eb57c4cfb1fb0e56bccf52e2c8d2fe7c67951975b3d514cde333cfac4e72f400ea791c868d429d6  20210809.txt
 
