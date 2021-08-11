@@ -88,4 +88,14 @@ gibt jetzt eine Meme dazu im selben git commit [morddrohung von margrit landolt 
 ebd. meme bild, blöde mongos aus der eltern generation
 
 
+Wed Aug 11 03:07:16 CEST 2021
+  91  856 6499 20210811.txt
+[main 39512c9] save
+ 6 files changed, 2808 insertions(+)
+ create mode 100755 rC3/nichtNurLesendZugreifenderVampireTapZwischenAarauUndDaObenIrgendWo.png
+ create mode 100755 rC3/nichtNurLesendZugreifenderVampireTapZwischenAarauUndDaObenIrgendWo2.png
+ create mode 100755 rC3/nichtNurLesendZugreifenderVampireTapZwischenAarauUndDaObenIrgendWo3.png
+ create mode 100755 rC3/spike-hurt.svg
+ create mode 100755 rC3/spike-hurt.svg.png
+27c49661f2b546d33d1d9b41c05dec08d3e2d286c55a9975398c703313b4767c84f401f81e50231ecfe6cab3c05d4bf91ee4a0596c0552a598b1fa48764e3c78  20210811.txt
 
