@@ -67,4 +67,9 @@ urs blums v geste wäre
 
 [1] staatsanwalt ans msser lierfern, urs blum eskaliert in dem er die staatsanwaltashcaft ans messer liefert, impliziert auch wieder meshcnen die sich mit recht auskennen ....
 
+Wed Aug 11 05:52:36 CEST 2021
+  70  551 3908 20210811b.txt
+[main 4eba486] save
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+7b7b7bf83f41e5d52859a0e47d1b04f9cf160f1b7247cc5572fdffb99c2b4334b852a75327555908b64ef5d1a322e547dbdb6c10ecde6e7c5640384a525bc893  20210811b.txt
 
