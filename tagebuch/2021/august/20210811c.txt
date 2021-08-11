@@ -11,4 +11,10 @@ geisteskranke mütter die es auf kokain geniesse wenn ihre kinder wie am spiess 
 
 ksa neurologie <-> ksa informatik <-> urs / astird blum / rielas <-> zürihc verischerung ???
 
+Wed Aug 11 13:41:49 CEST 2021
+ 14  51 307 20210811c.txt
+[main 5012aea] save
+ 1 file changed, 14 insertions(+)
+ create mode 100644 tagebuch/2021/august/20210811c.txt
+9a52fdc9730a0685dc48b1ebbf4a35032e995a2a5d8a57b9467b162490f7b79f4c26187fdf95f8a425d2b6509a6bf18d4a2f448abed507821a715ddc9264c530  20210811c.txt
 
