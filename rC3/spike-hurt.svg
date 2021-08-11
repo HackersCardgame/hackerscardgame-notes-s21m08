@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.26205012"
-     inkscape:cx="-175.53894"
-     inkscape:cy="387.33048"
+     inkscape:cx="-843.35011"
+     inkscape:cy="146.91846"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
@@ -59,12 +59,35 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#f9f9f9;fill-opacity:1;stroke:#ff0000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect49112"
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:3.7145;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect62737"
+       width="535.75195"
+       height="543.44989"
+       x="-184.57841"
+       y="-242.44463"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\spike-hurt.svg.png"
+       inkscape:export-xdpi="99.940002"
+       inkscape:export-ydpi="99.940002" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect62837"
        width="515.93982"
-       height="492.71741"
+       height="476.32022"
        x="-174.67236"
-       y="-199.91403" />
+       y="-183.51685"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\spike-hurt.svg.png"
+       inkscape:export-xdpi="99.940002"
+       inkscape:export-ydpi="99.940002" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#ff0000;stroke-width:1.95356;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect49112"
+       width="503.95996"
+       height="465.26035"
+       x="-168.68243"
+       y="-177.98691"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\spike-hurt.svg.png"
+       inkscape:export-xdpi="99.940002"
+       inkscape:export-ydpi="99.940002" />
     <image
        width="230.01111"
        height="431.79999"
@@ -2691,15 +2714,24 @@ MDg6MDBe5zKBAAAAAElFTkSuQmCC
 "
        id="image924"
        x="65.264877"
-       y="-170.56465" />
+       y="-164.7439"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\spike-hurt.svg.png"
+       inkscape:export-xdpi="99.940002"
+       inkscape:export-ydpi="99.940002" />
     <path
        style="fill:#ff0000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 93.636459,249.51167 -1.584285,-0.0179 -0.713495,0.85996 c -0.869609,0.16745 -0.780157,1.703 -1.019292,2.44361 l 0.580077,1.01744 c 0,0 0.848293,1.22049 0.830967,1.30804 -0.1413,0.71397 -2.949945,3.82848 -0.725098,3.99361 1.007719,0.0748 0.572595,-3.43753 1.013648,-4.01705 1.590695,0.87672 2.410582,-0.0619 3.168351,-1.32696 0.812846,-1.39269 0.826614,-1.79352 0.518558,-2.77325 -0.412499,-1.55163 -1.433253,-1.3898 -2.069431,-1.48752 z"
+       d="m 93.636459,255.33254 -1.584285,-0.0179 -0.713495,0.85996 c -0.869609,0.16745 -0.780157,1.703 -1.019292,2.44361 l 0.580077,1.01744 c 0,0 0.848293,1.22049 0.830967,1.30804 -0.1413,0.71397 -2.949945,3.82848 -0.725098,3.99361 1.007719,0.0748 0.572595,-3.43753 1.013648,-4.01705 1.590695,0.87672 2.410582,-0.0619 3.168351,-1.32696 0.812846,-1.39269 0.826614,-1.79352 0.518558,-2.77325 -0.412499,-1.55163 -1.433253,-1.3898 -2.069431,-1.48752 z"
        id="path4805"
-       sodipodi:nodetypes="cccccsscccc" />
+       sodipodi:nodetypes="cccccsscccc"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\spike-hurt.svg.png"
+       inkscape:export-xdpi="99.940002"
+       inkscape:export-ydpi="99.940002" />
     <g
        id="g4664"
-       transform="rotate(-49.407251,90.492986,135.58369)">
+       transform="rotate(-49.407251,96.819636,138.49407)"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\spike-hurt.svg.png"
+       inkscape:export-xdpi="99.940002"
+       inkscape:export-ydpi="99.940002">
       <ellipse
          style="fill:#cccccc;stroke-width:2"
          id="path962"
@@ -2731,9 +2763,12 @@ MDg6MDBe5zKBAAAAAElFTkSuQmCC
     </g>
     <path
        style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 79.950831,242.76009 1.742046,-2.033 12.198032,10.4523 c -0.0645,0.25429 -0.256963,0.39662 -0.559412,0.44271 -0.197203,0.15829 -0.358585,0.34643 -0.378806,0.65221 -0.129459,0.13519 -0.02353,0.17878 -0.404404,0.28603 0.03768,0.27296 -0.199127,0.55758 -0.399424,0.65205 z"
+       d="m 79.950831,248.58096 1.742046,-2.033 12.198032,10.4523 c -0.0645,0.25429 -0.256963,0.39662 -0.559412,0.44271 -0.197203,0.15829 -0.358585,0.34643 -0.378806,0.65221 -0.129459,0.13519 -0.02353,0.17878 -0.404404,0.28603 0.03768,0.27296 -0.199127,0.55758 -0.399424,0.65205 z"
        id="path7421"
-       sodipodi:nodetypes="cccccccc" />
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\spike-hurt.svg.png"
+       inkscape:export-xdpi="99.940002"
+       inkscape:export-ydpi="99.940002" />
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -2746,57 +2781,74 @@ MDg6MDBe5zKBAAAAAElFTkSuQmCC
        style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect28283)" />
     <text
        xml:space="preserve"
-       transform="matrix(0.37751427,0,0,0.37751427,210.85158,-254.35484)"
+       transform="matrix(0.37751427,0,0,0.37751427,210.85158,-248.53397)"
        id="text34273"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect34275);fill:#000000;fill-opacity:1;stroke:none"
        x="306.41602"
-       y="0"><tspan
+       y="0"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\spike-hurt.svg.png"
+       inkscape:export-xdpi="99.940002"
+       inkscape:export-ydpi="99.940002"><tspan
          x="-908.67578"
          y="394.10156"
-         id="tspan51035"><tspan
+         id="tspan62869"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan51033">They nailed a nail in Spikes tail </tspan></tspan><tspan
+           id="tspan62867">They nailed a nail in Spikes tail </tspan></tspan><tspan
          x="-899.16406"
          y="444.10156"
-         id="tspan51039"><tspan
+         id="tspan62873"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan51037">by the age of 6 Years as some
+           id="tspan62871">by the age of 6 Years as some
 </tspan></tspan><tspan
          x="-816.51758"
          y="494.10156"
-         id="tspan51043"><tspan
+         id="tspan62877"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan51041">sort of remote control </tspan></tspan><tspan
+           id="tspan62875">sort of remote control </tspan></tspan><tspan
          x="-866.25391"
          y="544.10156"
-         id="tspan51051"><tspan
+         id="tspan62885"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan51045">(Permanent Record) </tspan><tspan
+           id="tspan62879">(Permanent Record) </tspan><tspan
            style="font-weight:bold"
-           id="tspan51047">Spike</tspan><tspan
+           id="tspan62881">Spike</tspan><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan51049"> </tspan></tspan><tspan
+           id="tspan62883"> </tspan></tspan><tspan
          x="-910.9707"
          y="594.10156"
-         id="tspan51055"><tspan
+         id="tspan62889"><tspan
            style="font-weight:bold"
-           id="tspan51053">triggers if people / offender </tspan></tspan><tspan
-         x="-911.73242"
+           id="tspan62887">triggers if people / offender </tspan></tspan><tspan
+         x="-905.375"
          y="644.10156"
-         id="tspan51061"><tspan
+         id="tspan62895"><tspan
            style="font-weight:bold"
-           id="tspan51057">archetypes</tspan><tspan
+           id="tspan62891">archetypes</tspan><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan51059">  from the parental </tspan></tspan><tspan
+           id="tspan62893"> from the parental </tspan></tspan><tspan
          x="-878.63672"
          y="694.10156"
-         id="tspan51065"><tspan
+         id="tspan62899"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan51063">generation try to therapy or </tspan></tspan><tspan
+           id="tspan62897">generation try to therapy or </tspan></tspan><tspan
          x="-694.39844"
          y="744.10156"
-         id="tspan51069"><tspan
+         id="tspan62903"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan51067">&quot;therapy&quot; </tspan></tspan></text>
+           id="tspan62901">&quot;therapy&quot; </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.3285px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.608214"
+       x="-155.82805"
+       y="-204.19936"
+       id="text53881"
+       inkscape:export-filename="C:\Users\marc\hackerscardgame-notes-s21m08\rC3\spike-hurt.svg.png"
+       inkscape:export-xdpi="99.940002"
+       inkscape:export-ydpi="99.940002"><tspan
+         sodipodi:role="line"
+         id="tspan53879"
+         style="stroke-width:0.608214"
+         x="-155.82805"
+         y="-204.19936">REPARENTING / Therapy Documentation</tspan></text>
   </g>
 </svg>
