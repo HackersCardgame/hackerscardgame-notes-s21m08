@@ -172,4 +172,9 @@ a80434a2d7189c145c03bf1fd8d66e39fedd39656d1ee18b3fa8e3f4997fa930c0ddba37bd0e2a51
 sobald der autist merkt, dass es über dem prism system noch ein übergeordnetes militärsiches system gibt wird er abgeschossen, vergewaltigt, zugeritten und mit taumabased mincdontrol versucht uz einem amokläufer oder suzidianten ... full lifecycle (theoratically)
 
 
+Wed Aug 11 05:15:30 CEST 2021
+  175  1457 11258 20210811.txt
+[main 3049cb2] save
+ 1 file changed, 4 insertions(+)
+d08cb4d0f417956c46a6c34cb0dbdb6f5e8f10e8fbb4ec06132e3f8e841d6db182e9dd50d345296edf3180062a3faeec08b2752a8556ce145673495d276b1e3e  20210811.txt
 
