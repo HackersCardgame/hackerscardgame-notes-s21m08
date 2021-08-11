@@ -110,3 +110,6 @@ Wed Aug 11 03:17:18 CEST 2021
  1 file changed, 6 insertions(+)
 b9d17a485ab18ca2cf286d82c67667eadd9ae0838910e375aea9af2af05bad8ed676bb6750a99c52a2a4c6cc4dda3ef54848c354b4fef49109a681b9e4117d84  20210811.txt
 
+herleitung wie immer in kotzschrift weil keine zeit im selben git commit
+
+
