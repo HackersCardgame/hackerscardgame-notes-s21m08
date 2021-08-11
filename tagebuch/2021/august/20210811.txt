@@ -163,4 +163,9 @@ bei autistischen Kindern (auch wenn die vorsätztlich als Schizo fehldiagnostizi
 
 [1] wissenschaftlich / psychologisch würde man das "kontrasteffekt auf deprivation" und ist vermutlich in den meisten fällen nciht therapierbar aber wenn man sihc dessen beusst ist muss man einfach "select wisely" (siehe hackerscardgame.ch)
 
+Wed Aug 11 04:34:02 CEST 2021
+  166  1402 10729 20210811.txt
+[main 63e79ec] save
+ 1 file changed, 15 insertions(+)
+a80434a2d7189c145c03bf1fd8d66e39fedd39656d1ee18b3fa8e3f4997fa930c0ddba37bd0e2a5102751614399a6314d9744ec021244daf59dc7f4e293fda02  20210811.txt
 
