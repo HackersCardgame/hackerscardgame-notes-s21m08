@@ -104,4 +104,9 @@ ebd. was ich auch schon vor ca 5 jahren auf twitter gesagt habe:
 je nach waffe dauert es 1-10Min um rache an der täterin zu üben aber jahre um das opfer gesund zu pflegen...
 
 
+Wed Aug 11 03:17:18 CEST 2021
+ 107  930 7306 20210811.txt
+[main 9eace7f] save
+ 1 file changed, 6 insertions(+)
+b9d17a485ab18ca2cf286d82c67667eadd9ae0838910e375aea9af2af05bad8ed676bb6750a99c52a2a4c6cc4dda3ef54848c354b4fef49109a681b9e4117d84  20210811.txt
 
