@@ -174,4 +174,9 @@ sobald der autist merkt, dass es über dem prism system noch ein übergeordnetes
 weil das system braucht die autisten um das system aufrecht zu erhalten, also werdne die von anfang an z.B. 20 jahre wie ich als einziges familienmitglied im keller zimmer gehalte (goonies film?) damit man braver sklave ähm bittsteller bleibt
 
 
+Wed Aug 11 05:16:45 CEST 2021
+  177  1496 11503 20210811.txt
+[main 8ebe3f3] save
+ 1 file changed, 2 insertions(+), 13 deletions(-)
+bf795aee1e5bfee03a8e90d215831832c7292f458b735079777f745b754c0adad2e43309a33a47702341a747d8811b18db3195b9f2c6144c78326f42b442ac8b  20210811.txt
 
