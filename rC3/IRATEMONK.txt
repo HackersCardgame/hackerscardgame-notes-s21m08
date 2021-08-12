@@ -184,3 +184,11 @@ Thu Aug 12 23:48:02 CEST 2021
  1 file changed, 3 insertions(+)
 dfb1432c9983ded013c4023c44d3cee0bd835f00083a5e36a26ac38aed2f7b85575f20d256d1dab42bec28947ae3f44d920aa4d9abe2b9959a37ec282d900de6  IRATEMONK.txt
 
+dann hätte ich gesagt es gibt (ev. in der hardware) so etwas wie eine Masterfile table wo schon mal markiert wird 
+- egal
+- sollte zensiert werden
+- muss zensiert werden
+
+-> beim letzteren würde sich die malware aggressiver verhalten um zu verhindern dass das verpetzt wird...
+
+
