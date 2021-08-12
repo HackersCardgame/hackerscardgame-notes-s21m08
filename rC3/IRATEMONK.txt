@@ -136,3 +136,7 @@ Thu Aug 12 23:33:07 CEST 2021
  1 file changed, 6 insertions(+)
 a3aa8fce46459c148c8836f3d353f0ccac708273e54ad96073b95931feaa0e6e17248ece61be12fd762126df4bd8eb1c75f250f2413a9b90d40dd9c6dbe041d2  IRATEMONK.txt
 
+etwas wie ax.25 würde man vermutlich mti ca 50 transistoren hin bekommen, udn der intel hat ja nur paar milionen transistoren....
+
+
+
