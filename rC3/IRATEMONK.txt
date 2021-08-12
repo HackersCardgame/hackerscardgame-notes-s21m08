@@ -244,4 +244,9 @@ dann bugreport an blog.fefe.de
 
 der Rethorische Automatismus "da war der Zensor pinkeln" wäre allenfalls falsch, das wäre eine ganze horde von mongos mit irgendwelcher remote software oder eine abbild meiner daten irgend in einer VM
 
+Fri Aug 13 00:13:04 CEST 2021
+  247  1287 12747 IRATEMONK.txt
+[main 5c5c59f] save
+ 1 file changed, 5 insertions(+)
+68f8791d802d5b5f0e8f109d4da4007bd794b2320cb57d2c7f9d0f77d89168f9a3f2bb9f58c8b6bd1b23893cb090791b69963634c486d9c30df622a890833bac  IRATEMONK.txt
 
