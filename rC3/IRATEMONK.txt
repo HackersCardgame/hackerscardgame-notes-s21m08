@@ -284,4 +284,9 @@ die haben eine lsite wo es plausibel ist wenn ein betriebssystem wartet und nach
 [1] suizid aktiviert worden
  georg landol hat irgend ein ding was mti meinem männchen zeugs "quantenverschränkt" ist und weiss dass ich da jeweilsw einen suizidveruhc mache
 
+Fri Aug 13 00:35:28 CEST 2021
+  287  1517 14607 IRATEMONK.txt
+[main 516dbcf] save
+ 1 file changed, 16 insertions(+)
+418d1336fca6156810066d2ebe6bcd85bf77ac60eb413444e6b0e55f00fc80b9249d1acc903bbb69f144da8765f5dfd8a52d6f9eeed73e15daa16b52a1b68b94  IRATEMONK.txt
 
