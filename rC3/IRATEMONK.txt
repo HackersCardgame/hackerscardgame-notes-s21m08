@@ -170,4 +170,9 @@ alle rechtsfälle sind ungültig, alle reichter laufen jetzt amok weil alle fälsch
 
 die zürich hat vermutlcih ncith nur 10 blackhats, die haben vermutlcih tausende...
 
+Thu Aug 12 23:45:59 CEST 2021
+ 173  773 8646 IRATEMONK.txt
+[main e8ac10f] save
+ 1 file changed, 8 insertions(+)
+b91e44ad3ac39d305006cbe9a6e212b7a4c48b4e732ba43ced7243e741e2777b0e87aa13d1b751922c1f3faff22ebe835d7670407dd2694da13664c537c5ece9  IRATEMONK.txt
 
