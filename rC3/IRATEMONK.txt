@@ -393,4 +393,9 @@ dann kann ich ja keine fehler zugeben, also gebe ich einen fehler zu, das ist NI
 
 dennoch filesystem mit hash wäre allenfalls etwas sinnvolles...
 
+Fri Aug 13 01:56:31 CEST 2021
+  396  2131 19827 IRATEMONK.txt
+[main cd99a7f] save
+ 1 file changed, 8 insertions(+)
+e252c6473c5ddac20bd4eebc62f1ce8348fd3a5747e8f9465d104b9c7b7275b2273ab0bfd91b38adf065a149f8d1592af96829a128fd057f359debb521c95662  IRATEMONK.txt
 
