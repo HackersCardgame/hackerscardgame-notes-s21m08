@@ -234,4 +234,9 @@ nothing to commit, working tree clean
 dann den computer beim kopieren langsamer machen (also sabotage des bakcups) ist noch nicht ganz klar ob das ein default verhalten der malware ist, oder ob das jemand aktivieren muss, bzw. könnte es beides sein, also wenn marc jr landolt 10GB backup macht wird der KONTROLLATOR-mongo aktiviert ...
 
 
+Fri Aug 13 00:01:43 CEST 2021
+  237  1232 12253 IRATEMONK.txt
+[main 712fcf8] save
+ 1 file changed, 4 insertions(+)
+ef62e579c5d9418ef999cd54261e9653f2bd0222752a353b1e022188d6c210d584add69a30079410e266c5c1ac367031647cec49d9b96ed62a210ab9be201d28  IRATEMONK.txt
 
