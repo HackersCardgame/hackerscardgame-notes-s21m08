@@ -368,4 +368,9 @@ hash = detect <- reiserfs option, hat das das allenfalls?
 
 und da gibt es scheinbar wieder einen esotherik part: der ganze pädoring aarau (die eltern der 1980er Gerneration) hat jetzt nur ncoh die option auf reisen zu gehen, reiserfs triggert die pädos somit allenfalls
 
+Fri Aug 13 01:32:26 CEST 2021
+  371  1937 18280 IRATEMONK.txt
+[main 819b539] save
+ 1 file changed, 7 insertions(+)
+59a77b79a724664689207379b8127560205e74eae42efb3609df8690f25646491fd5dfc9838f2fb72882fbb88f5c556ec43ee607c4741520e6b8a21dd787872d  IRATEMONK.txt
 
