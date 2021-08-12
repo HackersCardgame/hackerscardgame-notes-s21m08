@@ -222,4 +222,12 @@ dann haben die einfach remote irgend den xserver oder den moushandler sabotiert 
 
 dann kommt wieder das milimal patter [1,2,3]
 
+Fri Aug 13 00:00:03 CEST 2021
+  225  1146 11592 IRATEMONK.txt
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+5517ebe7988fc690d5a245294d392a20e1bb2a21ecf9ef6d2e9aa066acf473571d21bf68da39fbf42314f76f1672c82125cbfd4ab0fdee486374d72a94b34d08  IRATEMONK.txt
 
