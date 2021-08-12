@@ -386,3 +386,11 @@ Fri Aug 13 01:35:03 CEST 2021
  1 file changed, 7 insertions(+)
 defde59905dbd40a206374dc6fd07a569ad6bdc59c788b21bddfc96b397dccced38037d9739da851677d682a60f57225bba1f0ea637e432fac30622561efae00  IRATEMONK.txt
 
+also der technische part wäre jetzt allenfalls mal klar wo dsa problem liegt, das will schreibrehcte auf den datenträger...
+
+
+dann kann ich ja keine fehler zugeben, also gebe ich einen fehler zu, das ist NICHT weil der datenträger nur read only ist, sondern das Knoppix wurde irgendwo zwischen meinem windows computer und meinem offline laptop mit einem "modul" erweitert, die knoppix datenpartion unsauber auszuhängen, dann wurde das zurück dateiert, es ist weil Knoppix viel vorher entschieden hat da reiser fs dafür zu nehmen [wäre eine ExitStrategie / tarnung der übertragung] alos so wie die chemitroden afaaik dann gezündet werden bevor ich in die badewanne gehe und dann behauptet wird es sei wegen dem gift im wasserleitungssystem
+
+dennoch filesystem mit hash wäre allenfalls etwas sinnvolles...
+
+
