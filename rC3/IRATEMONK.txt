@@ -380,4 +380,9 @@ Fri Aug 13 01:32:26 CEST 2021
 apropos wissenschaftlicher part und esotherischer part
 in diesem fall wäre schizophrneie ein vorteil, hiesse das sind alles menschen die genug anti-intelligenz-doof sind um nciht nur eine geschichte mit zu bekommen...
 
+Fri Aug 13 01:35:03 CEST 2021
+  383  1987 18762 IRATEMONK.txt
+[main 4f060b2] save
+ 1 file changed, 7 insertions(+)
+defde59905dbd40a206374dc6fd07a569ad6bdc59c788b21bddfc96b397dccced38037d9739da851677d682a60f57225bba1f0ea637e432fac30622561efae00  IRATEMONK.txt
 
