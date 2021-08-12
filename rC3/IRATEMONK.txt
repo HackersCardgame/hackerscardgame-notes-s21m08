@@ -269,3 +269,19 @@ Fri Aug 13 00:20:08 CEST 2021
  1 file changed, 3 insertions(+)
 89a0686d4e26b6ff6dcfb576d685041ad423d418056531684ff0862514c24500fc2ab6370713e819b1294ebae894b692054d7616ace9f908aa3f327322537df3  IRATEMONK.txt
 
+
+dann ctrl c und ctrl z und reboot wird auch herausgezögert und wenn man das abbricht wäre dann die partition >> geschlissen << 
+
+
+geshclisse <- geor glandolt
+
+
+
+
+die haben eine lsite wo es plausibel ist wenn ein betriebssystem wartet und nach dem reboot läuft vermtulcih die indexierung weiter... [1]
+
+
+[1] suizid aktiviert worden
+ georg landol hat irgend ein ding was mti meinem männchen zeugs "quantenverschränkt" ist und weiss dass ich da jeweilsw einen suizidveruhc mache
+
+
