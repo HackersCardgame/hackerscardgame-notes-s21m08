@@ -157,4 +157,9 @@ sprachsynthese claude henchoz: hab ich mal probiert, man kommt schon an kinderpo
 
 und ja das hat claude irgend ca 1997 mal gesagt...
 
+Thu Aug 12 23:43:42 CEST 2021
+ 160  681 7909 IRATEMONK.txt
+[main d9eb76a] save
+ 1 file changed, 8 insertions(+), 5 deletions(-)
+ab2034af9421533f1565d9051cd571cafc33248474cd691e343b7c1773a335b1e166ce2cbed0cd354bee0bf0275ef5ec7ed88381aab6cd42433f2e3e145aeb79  IRATEMONK.txt
 
