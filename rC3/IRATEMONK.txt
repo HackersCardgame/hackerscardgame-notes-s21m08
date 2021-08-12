@@ -178,4 +178,9 @@ b91e44ad3ac39d305006cbe9a6e212b7a4c48b4e732ba43ced7243e741e2777b0e87aa13d1b75192
 
 dann zu wissen, dass es im normalfall "nur" eine statemachine für psychologische kriegsführung ist die terror macht hilft, und erst da wo man dann wirklcih gut in der fehlersuche ist wird dann vermutlcih auch automatisiert irgendwelche blackhats aufgeboten die dann über die military grade hardware backdoors alles noch schlimmer machen. ABER somit wäre das auch irgendwie chosen plaintextbar
 
+Thu Aug 12 23:48:02 CEST 2021
+ 181  851 9297 IRATEMONK.txt
+[main 312da23] save
+ 1 file changed, 3 insertions(+)
+dfb1432c9983ded013c4023c44d3cee0bd835f00083a5e36a26ac38aed2f7b85575f20d256d1dab42bec28947ae3f44d920aa4d9abe2b9959a37ec282d900de6  IRATEMONK.txt
 
