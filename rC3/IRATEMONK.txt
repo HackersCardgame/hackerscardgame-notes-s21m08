@@ -231,3 +231,7 @@ Your branch is ahead of 'origin/main' by 1 commit.
 nothing to commit, working tree clean
 5517ebe7988fc690d5a245294d392a20e1bb2a21ecf9ef6d2e9aa066acf473571d21bf68da39fbf42314f76f1672c82125cbfd4ab0fdee486374d72a94b34d08  IRATEMONK.txt
 
+dann den computer beim kopieren langsamer machen (also sabotage des bakcups) ist noch nicht ganz klar ob das ein default verhalten der malware ist, oder ob das jemand aktivieren muss, bzw. könnte es beides sein, also wenn marc jr landolt 10GB backup macht wird der KONTROLLATOR-mongo aktiviert ...
+
+
+
