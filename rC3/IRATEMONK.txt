@@ -261,3 +261,6 @@ Fri Aug 13 00:16:30 CEST 2021
  1 file changed, 5 insertions(+)
 a664cca537e5da6b2fa68cff5d99d8b0dfc5da139d2d9a15d11e611382d6ac422f283d035f2968b65d25a4ce30b38ccd86a9eef4a05bfdc9b32d3744b5d39838  IRATEMONK.txt
 
+dann das stop and go würde allenfalls verschleiern, dass in den zeiten wo das nicht kopiert die natural language processing etwas wie eien master file tape / index / glimpse produziert, und der algi allenfalls so ist dass erst fertig kopiert ist wenn der index gebuildet ist...
+
+
