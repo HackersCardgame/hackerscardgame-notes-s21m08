@@ -362,3 +362,10 @@ Fri Aug 13 01:19:58 CEST 2021
  1 file changed, 13 insertions(+)
 f54b22a9ebef518ae0a78bdf0860f292b3c3022501dbd65fb0568e303c2079e1ea22d2309412f525696b045d5f6fd287f6e69cc8423fa9988ea69a315c1fcb9a  IRATEMONK.txt
 
+dann iratemonk könnte man mit einem filesystem mit automatischen zumindest hasches nachweisen, bzw. mit huffmanncode ...
+
+hash = detect <- reiserfs option, hat das das allenfalls?
+
+und da gibt es scheinbar wieder einen esotherik part: der ganze pädoring aarau (die eltern der 1980er Gerneration) hat jetzt nur ncoh die option auf reisen zu gehen, reiserfs triggert die pädos somit allenfalls
+
+
