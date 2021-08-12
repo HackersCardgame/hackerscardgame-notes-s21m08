@@ -263,4 +263,9 @@ a664cca537e5da6b2fa68cff5d99d8b0dfc5da139d2d9a15d11e611382d6ac422f283d035f2968b6
 
 dann das stop and go würde allenfalls verschleiern, dass in den zeiten wo das nicht kopiert die natural language processing etwas wie eien master file tape / index / glimpse produziert, und der algi allenfalls so ist dass erst fertig kopiert ist wenn der index gebuildet ist...
 
+Fri Aug 13 00:20:08 CEST 2021
+  266  1422 13869 IRATEMONK.txt
+[main dd8364d] save
+ 1 file changed, 3 insertions(+)
+89a0686d4e26b6ff6dcfb576d685041ad423d418056531684ff0862514c24500fc2ab6370713e819b1294ebae894b692054d7616ace9f908aa3f327322537df3  IRATEMONK.txt
 
