@@ -255,4 +255,9 @@ dann das geschwinidigkeit runter drosseln, wäre ein euphemismus für alle 5 sekun
 "Stop an Go", bzw. wenn man das protokolliert erkentn das system das und wechselt auf das nächste malware modul...
 allenfalls mit natural language processing oder sogar sprachsynthese...
 
+Fri Aug 13 00:16:30 CEST 2021
+  258  1355 13330 IRATEMONK.txt
+[main 779108c] save
+ 1 file changed, 5 insertions(+)
+a664cca537e5da6b2fa68cff5d99d8b0dfc5da139d2d9a15d11e611382d6ac422f283d035f2968b65d25a4ce30b38ccd86a9eef4a05bfdc9b32d3744b5d39838  IRATEMONK.txt
 
