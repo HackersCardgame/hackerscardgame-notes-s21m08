@@ -250,4 +250,9 @@ Fri Aug 13 00:13:04 CEST 2021
  1 file changed, 5 insertions(+)
 68f8791d802d5b5f0e8f109d4da4007bd794b2320cb57d2c7f9d0f77d89168f9a3f2bb9f58c8b6bd1b23893cb090791b69963634c486d9c30df622a890833bac  IRATEMONK.txt
 
+dann das geschwinidigkeit runter drosseln, wäre ein euphemismus für alle 5 sekunden einen grund für suizid / rage aktiieren zu können
+
+"Stop an Go", bzw. wenn man das protokolliert erkentn das system das und wechselt auf das nächste malware modul...
+allenfalls mit natural language processing oder sogar sprachsynthese...
+
 
