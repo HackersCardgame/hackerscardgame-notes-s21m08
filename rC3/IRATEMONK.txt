@@ -218,3 +218,8 @@ Thu Aug 12 23:54:21 CEST 2021
  1 file changed, 21 insertions(+)
 e2629a68c8bf39e85b20cd9676c3e02a7946d5a0a4aa0b2a04379ede8ca477193ae3bb7dba95e6bb73e8c6659c34dcceaf1e296c8a526f08c2db639c15a03695  IRATEMONK.txt
 
+dann haben die einfach remote irgend den xserver oder den moushandler sabotiert um ca 15 minuten herauszuzögern bis die datei kopiert ist, bzw. die sabotierte datei
+
+dann kommt wieder das milimal patter [1,2,3]
+
+
