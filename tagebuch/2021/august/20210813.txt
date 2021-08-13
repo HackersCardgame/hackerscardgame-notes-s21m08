@@ -120,4 +120,9 @@ sagt das mit den Epilepsie anfällen einem vertrauenswürdigen arzt oder bezugsp
 
 dann falls das FEDPOL das liest, schaut allefalls dass die Akten in ORBIS AG, im Kardex etc. gesichtert werden in einem zusätzlichen revisionssicherne datastorage ... wenn man bereichtigte kritik übt trägt die "pfelge" oder der "arzt" schlimmstenfalls irgend "WARNUNG potentieller Amokläufer" in diese systeme ein auch wenn der Patient krass Suizid gefährdet ist und nicht in der lage einen erweiterten suizid zu begehen ist...
 
+Fri Aug 13 12:10:20 CEST 2021
+ 123 1162 8053 20210813.txt
+[main 85d1e7f] save
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+1301c84de2bdc58f64bc149f561effd830969dee6ee8724805fb5632902db505a7e07f73ecc6b5659b741615ef8e39aee50103203056e5b62e66654375a6125a  20210813.txt
 
