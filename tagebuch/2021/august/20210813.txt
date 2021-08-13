@@ -43,4 +43,9 @@ ausserdem ist das allenaflls der markus belser der immer in der wohnung oben dra
 
 dann ist "das parfüm" ein seit 20 jahren bekannter schachzug in den telliblöcken seit david utz mit sabrina lüthi afaik in der delfterstrsase gewohnt hat...
 
+Fri Aug 13 06:02:10 CEST 2021
+  46  403 2939 20210813.txt
+[main d522b36] save
+ 1 file changed, 13 insertions(+)
+6d20ebb7a6b2fede7ffe76d7a3867aaaf5865985c1c5c22e4dbe701a9657277b89b7925ffce5099d0d285a5d095dd7292f0da89d2ba4a4d0c8b40ae337f469fa  20210813.txt
 
