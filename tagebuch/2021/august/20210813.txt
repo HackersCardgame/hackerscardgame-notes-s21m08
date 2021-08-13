@@ -82,4 +82,9 @@ ich vermute die straffälligen offizere haben angst wenn wir christen versuchen 
 
 sobald die ersten offziere rausfinden dass allenfalls nicht sie für den tod von zB. Cornela utz verantwortlcih sind wird die sorte von armee spitze vermutlcih krass psychotsich und anfangen donkey-kong fässer zu werfen...
 
+Fri Aug 13 11:48:00 CEST 2021
+  85  748 5389 20210813.txt
+[main 20fa67d] save
+ 1 file changed, 7 insertions(+), 6 deletions(-)
+8ae3fa38eac5d57dc0f53ccd19244e6c0234d297a95578e08c41f70b2ce49646c031892241e14b13694ae15806015076ff74f9226abffd68c240bd2458317e2d  20210813.txt
 
