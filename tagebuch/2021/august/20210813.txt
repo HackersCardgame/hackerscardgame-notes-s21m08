@@ -76,4 +76,9 @@ hochmut wird vor den fall gestellt was eine ältere patientin eingespeist hat in
 
 urs blum hat rückhalt von der armee spitze, bzw. urs blum hat jetzt das auch noch verraten...
 
+Fri Aug 13 11:24:26 CEST 2021
+  79  632 4593 20210813.txt
+[main c933cb1] save
+ 1 file changed, 28 insertions(+)
+b8ed7e721a90ff1f2d200cefe3c014d31a5fbc0d5158c26012a56c57889633aa12011e437ea1e1189842bd4d2041fea7501ce374e62bf3f45a90a20dc08c7c45  20210813.txt
 
