@@ -138,4 +138,9 @@ stimmt meine Herleitung && und das konzept generell einen auf gleichltrigen verg
 
 ist jacob applebaum ein zeuge für mord, massenmord und hat allenfalls auch eine Firma mti Rechtsverdrehersoftware am Hals
 
+Sat Aug 14 10:48:08 CEST 2021
+ 141  680 8147 20210814.txt
+[main 69b01fe] save
+ 1 file changed, 6 insertions(+)
+a63ea1f7403a34d26ed61fb459321010898f79835b4f0ecdc5d8565c1ee045d55ea9be781d55284e4634a444fc72f7b2e7319a3d7997dbadf2fcac582a9fe546  20210814.txt
 
