@@ -80,3 +80,8 @@ Sat Aug 14 06:44:00 CEST 2021
  create mode 100644 tagebuch/2021/august/20210814.txt
 8ab18f503584891d9eb5d6ea0ae4c19c53e820c6cf62647c572f09fbfa44f46dbc8c4d79a3048bcc6d84681509e2d4fad6348b236aa2a25a45e565ee96ddf0f2  20210814.txt
 
+
+dann scan funktioneirt nciht mehr richtig, random datum, auch timestamp attack, das soll(te) verschleiern dass die scans gelöscht wurden...
+
+
+
