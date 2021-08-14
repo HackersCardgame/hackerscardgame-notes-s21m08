@@ -1,0 +1,76 @@
+
+Sat Aug 14 06:37:59 CEST 2021
+2 0 2 20210814.txt
+
+eigentlich wollte ich einkaufen gehen, aber scheinbar macht die täterschaft mit richter und polisziten und neurologen amt wieder terror...
+
+siehe bilder
+
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m08/PRIO$ find -mtime -0.003
+.
+./wennDasVorherigeStimmtDannHatDerStaatsanwaltMilitaerischeAccessCodesUmAlleComputerImKantonSperrenZuLassenQuestionmark.PNG
+./oderTerminiertEsAufDannSomitKannDerStaatsanwaltInfosZurueckHaltenMussDieAberIrgendwannWeitergebe.PNG
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m08/PRIO$ 
+
+arc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m08/PRIO$ find -mtime -0.005
+.
+./mordeWeltweiteAusSpassAmMordenDurchSchweizerOffiziereMitBlackhatHacks.PNG
+./list.PNG
+./retinaCCDqrcode.PNG
+./schweizerArmeeBesitztEinRichtigGrossesAresnalVonCyberWaffenUndErmordetDamit10jaehrigeJungsInDeutschland.PNG
+./eigentlichWollteIchEinkaufenGehen.PNG
+./fishing-crusade-map.svg
+./julainAssangeWirdInDenSuizidGetrieben.PNG
+./glubsch....PNG
+./wenns-stimmt-bekomm-ich-dafuer-vermutlich-wieder-richtig-viel-aerger-asservate.PNG
+./230913813_123441883335803_4047999891734669000_n.jpg
+./KTAG_hack_der_polizei_gemeldet.mp3
+./README.md
+./apple-datei-irgendwie-schraeg.PNG
+./neuralink-vulnerability-second-order.png
+./isfies-klebeband.png
+./gutSteuerbarUndMilitaerAusbildungWortRECHERCHEARBEITEN--Natural-Lang-processing.PNG
+./pamenEtCircensesUndDrogenQuestionmark.PNG
+./urs-blum--david-utz-befoerderungZuOffizier--verschleierung-morde-der-zuerich-versciherung-druch-david-utz-im-auftrag-der-armee.PNG
+./wennDasVorherigeStimmtDannHatDerStaatsanwaltMilitaerischeAccessCodesUmAlleComputerImKantonSperrenZuLassenQuestionmark.PNG
+./neuralink-vulnerability-second-order-debuging-device-infected.PNG
+./beihilfe-zu-mord-und-mordvertuschung-fuer-einen-job-seinem-hobby-bodyflying-entsprechend-questionmark.PNG
+./zensurAktiviertWordenQuestionmark.txt
+./urs-blum-morddrohung-durch-die.PNG
+./hoomer-kocht.PNG
+./urs-blum--david-utz-befoerderungZuOffizier--verschleierung-morde-der-zuerich-versciherung-druch-david-utz-im-auftrag-der-armee.91.PNG
+./hmmmm---skype.PNG
+./oderTerminiertEsAufDannSomitKannDerStaatsanwaltInfosZurueckHaltenMussDieAberIrgendwannWeitergebe.PNG
+./bam-ist-somit-ein-stgb-180-der-mir-verschluesselt-ubermittelt-wird-den-nur-informatiker-finden-wuerden.PNG
+./vstsInstalliert.PNG
+./wenns-stimmt-bekomm-ich-dafuer-vermutlich-wieder-richtig-viel-aerger.PNG
+./Eien kurze Geschichte der Inbformatik-Zeit seit 1998.pdf
+./gitCommit-kaputt-auf-neuem-windows.PNG
+./gmmmm-reason-zero-day-fuer-rage-quitting-bzw-installer-sabotage-questionmark.PNG
+./fishing-crusade-map.svg.png
+./morddrohung-durch-die-schweizer-armee-ist-aber-verallgemeinernd-und-ein-schachzug-des-us-ablegers-zuerich-versicherung.PNG
+./ersterSuicideDeathBotDurchDenPaedophilenRingAarauGegenMichAktiviertWorden.PNG
+./wiedererkennungswert-fuer-orlando-martin-orlando-steht-somit-auf-der-gehalts-liste-der-zurich-versichrung.PNG
+./planspileJustizSchachmattUndFloppyTod/conterTrommelSprengfalle.PNG
+./planspileJustizSchachmattUndFloppyTod/02.PNG
+./planspileJustizSchachmattUndFloppyTod/herzlichenDank.PNG
+./planspileJustizSchachmattUndFloppyTod/reed.PNG
+./planspileJustizSchachmattUndFloppyTod/wenn_man_es_dem_opfer_sagt_springt_es_vielen_herzlichen_dank_und_ich_marc_jr_landolt_fordere_einen_humanen_tod.PNG
+./planspileJustizSchachmattUndFloppyTod/01.PNG
+./planspileJustizSchachmattUndFloppyTod/03.PNG
+./invitedMyself.jfif
+./vermutlcih-jemand-am-user-prfil-herumgebastelt.PNG
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m08/PRIO$ 
+
+dann wissen wir jetzt weshabl windows random timestamps abändert, das eigentlihc relevante dokument wird so gespammt
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+das relevante wäre: ./eigentlichWollteIchEinkaufenGehen.PNG
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+-> das würde auch nur sinn machen wenn die übermittlung stimmt
+==> dann hat man allenfalls ein logfile was der staatswalt so die letzte stunde gesagt / getan hat, weil irgendwie müsste dre staatsanwalt oder sein mami das ja auslösen
+
+und das sind schon auch menschen dabei die sich mit unix auskennen...
+
+
