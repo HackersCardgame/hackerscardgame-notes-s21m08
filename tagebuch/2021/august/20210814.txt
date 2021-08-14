@@ -95,4 +95,12 @@ da gabs doch mal so eine schräge JOOP Parfum werbung am detuschen TV, irgendwie
 
 dann wird behauptet wir 1980er hätten das unseren gleichaltrigen Mädchen auch angetan, Karma ... aber ich erinnere da an die szene, wo philipp lüscher und ich etwas bei uns im keller an der rainstrasse 13 holen wollten und dann Marc-Georg Landolt da abgeschlossen hatte und ... also die 1980er Jungs wären einfach die sündenböcke für den Konsum der eltern der 1980er Kinder...
 
+Sat Aug 14 10:37:24 CEST 2021
+  98  382 5440 20210814.txt
+[main 7111f53] save
+ 4 files changed, 6 insertions(+)
+ create mode 100755 1977undJuenger__HERE_BE_DRAGONS/koerperverletzungenAnMarcJr/chemitrode-20210814-01.PNG
+ create mode 100755 1977undJuenger__HERE_BE_DRAGONS/koerperverletzungenAnMarcJr/chemitrode-20210814-02.PNG
+ create mode 100755 1977undJuenger__HERE_BE_DRAGONS/koerperverletzungenAnMarcJr/chemitrode-20210814-03.jpg
+deb5c1d9f5feccc2eb4044a93930502e33a86e023e305e303f3b15beeb6a8e143ef0ec60b4fb91fa52aa9dac1a397d58e3a3b75dcdb187f7128734f2bb8b3164  20210814.txt
 
