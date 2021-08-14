@@ -35,4 +35,9 @@ an alle gleichaltrigen udn jüngerne: achtung diese stück warhheit ertragen die
 
 urs blum droht jetzt wieder mit amoklauf, sprengfallen etc...
 
+Sat Aug 14 21:26:25 CEST 2021
+  38  252 1925 20210814b.txt
+[main 33d80b0] save
+ 1 file changed, 5 insertions(+)
+7b7f0d4db6bc80466dfcf1abc1afa40defb230264ab7eb48943dacd4775437df1dd62d651a01ea4f16fb1b8b2073bda87c7e53798b2f008df003de5428a99b17  20210814b.txt
 
