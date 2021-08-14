@@ -16,4 +16,10 @@ Mörder und Pädophil
 dann mobiler nerviger geocache:
 viele frauen geben sich mühe das karma in balance zu halten (und allefalls auch männlcihe autisten) und die poizei hat aber root access auf dem system und missbraucht und benutzt das karma so wie es ihnen passt, auch dazu um straftaten von polizisten zu vertuschen
 
+Sat Aug 14 20:13:14 CEST 2021
+  19  158 1007 20210814b.txt
+[main c2ec62a] save
+ 1 file changed, 19 insertions(+)
+ create mode 100644 tagebuch/2021/august/20210814b.txt
+ff95cdeeb859e1f1f901937d91a7929397bbbbddf9934edb3c0d86143756e10b12073b21672a75817af8d66ded7e4999b7e84ac3303bda9c653174e2e1be76f9  20210814b.txt
 
