@@ -106,4 +106,9 @@ deb5c1d9f5feccc2eb4044a93930502e33a86e023e305e303f3b15beeb6a8e143ef0ec60b4fb91fa
 
 bzw Väter sind lieb sagen sie und würden so etwas nicht machen, und das "der gentleman geniesst und schweigt" wäre zynismus gewesen, vorwurfsvoll dem sohn gegenüber um von sich selber abzulenken?
 
+Sat Aug 14 10:38:47 CEST 2021
+ 109  445 6218 20210814.txt
+[main 6a666a4] save
+ 1 file changed, 3 insertions(+)
+54535a4e6f668c167d78a88b66e70d493569dba10018162925f8a8d275854eb09f1e22d28fea504dbb32c88365a9dd2614ecb8a1a1bb48029cbc678072f5314a  20210814.txt
 
