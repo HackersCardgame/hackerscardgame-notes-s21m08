@@ -7,8 +7,8 @@ suicide death bot rendered aus dem was man die letzten  12h getan hat. basierend
 
 
 modul ths spinalis typo malware
-modul
-modul
+modul polterheist
+modul plaene mit dem EEG auslesen und genau sabotieren
 modul
 modul
 modul
@@ -17,11 +17,4 @@ modul
 
 DEFCON3
 
-
-Sun Aug 15 15:13:22 CEST 2021
- 21  73 452 20210815.txt
-[main fd97963] save
- 1 file changed, 21 insertions(+)
- create mode 100644 tagebuch/2021/august/20210815.txt
-1e592be467190183085ba83d1bc562d6c0b01eaff5e8ab151cecdccef06b353348409d741e6b0290c8397cf7659525d3608245c3b1f43795ffe44be76bcbf86a  20210815.txt
 
