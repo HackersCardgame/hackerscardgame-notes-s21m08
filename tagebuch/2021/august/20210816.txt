@@ -43,4 +43,9 @@ somit wäre das Ermorden von Autsiten machterhalt der jeweiligen Neurologie was 
 
 [1] [Pfistgeerer: schizoprenie] <- pfisterer schützt fürsätzlich ein täternetzwerk um ksa neuroloige <- pfisterer: ich helfe euch 1980er neurologen (ungehört: eure morde zu vertuschen, womit pfisterer die neurologen des vorsatzes bezichtigt)
 
+Mon Aug 16 02:44:47 CEST 2021
+  46  286 2102 20210816.txt
+[main a8e6d2c] save
+ 1 file changed, 8 insertions(+), 5 deletions(-)
+3ca670c5be21d109addf27b16fb6c358fe23e6eed54465a28a3cd973b0a8fe4f5e526412beee090ec842a3ef7cba192b9048fde6ae46a847e9a6e6fcb925859f  20210816.txt
 
