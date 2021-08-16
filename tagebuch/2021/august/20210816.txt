@@ -104,4 +104,9 @@ claudine hat röösli ermordet
 
 produktehaftpflicht für alle drogentoten sind somit bei der ksa aarau, somit muss ksa aarau offenlegen wer den mord an tobias moser und cornela utz aktiviert / verübt hat
 
+Mon Aug 16 02:52:57 CEST 2021
+ 107  554 4208 20210816.txt
+[main 24840d5] save
+ 1 file changed, 11 insertions(+)
+09c742f81f56848f70bb9529f382e4058d7469da319312370aae2367d7852259b80fca8dc8d554bca848ee890702ace6cf854952f5b3cab1bac82335788855e6  20210816.txt
 
