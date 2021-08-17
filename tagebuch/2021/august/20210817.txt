@@ -18,4 +18,15 @@ p1 ⇨ p2 ⇨ p3 ⇨ p4 ⇨ p5 ⇨ p6 ⇨ p7
 
 
 
+marc@DESKTOP-B99KF62:~$ figlet DEFCON3
+ ____  _____ _____ ____ ___  _   _ _____ 
+|  _ \| ____|  ___/ ___/ _ \| \ | |___ / 
+| | | |  _| | |_ | |  | | | |  \| | |_ \ 
+| |_| | |___|  _|| |__| |_| | |\  |___) |
+|____/|_____|_|   \____\___/|_| \_|____/ 
+                                         
+marc@DESKTOP-B99KF62:~$ 
+
+seit 04:00 ist vermutlcih satans überwachsungskarte in aarau auf grün, somit hat jetzt targeting angefangen
+
 
