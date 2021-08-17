@@ -180,4 +180,9 @@ ausserdem in dem 3D mudell wurde die rainstrasse 13 so abgebildet wie ca. von vo
 
 generische 3D modelle mit off by ones per download?
 
+Tue Aug 17 23:17:08 CEST 2021
+ 183 1245 8857 20210817b.txt
+[main 41a8034] save
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+f678595b8322176f2489a362717e609f3d9c758ac7e7fe3fbbab11b6f1e00b60aaf02163ca7bb0a2a9536a605691eb34217819a1fbdba9dd28c252851bb68311  20210817b.txt
 
