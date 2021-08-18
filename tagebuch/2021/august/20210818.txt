@@ -248,4 +248,9 @@ bei einigen von uns christianisten ist ja übermass eine sünde, aber ich bin je
 
 bzw. das wäre dann der AppleBaum, somit wäre der applebaum auch irgendwie mit dem chritetntum kompetibel, denn übermässiges "der jude wars nicht" wäre dann auch übermass...
 
+Wed Aug 18 20:00:28 CEST 2021
+  251  1948 12713 20210818.txt
+[main 584a0b9] save
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+46267952b80a2d3f73f0f74b4d4ae0f61bc46d953c3f2fda30c9aa02b7b0f7bb0e85da9a7fb9320ab1599cf79f254007eb2af4c33a2297f1e23ca51cc58f1ef1  20210818.txt
 
