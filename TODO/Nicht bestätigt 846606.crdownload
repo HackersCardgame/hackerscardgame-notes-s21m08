@@ -1,0 +1,300 @@
+
+
+<!DOCTYPE html>
+<html class="no-js">
+	<!--
+	/*//////////////////////////////////////////////////////*/
+	/*                                                      */
+	/*  Created by: Maxomedia AG                            */
+	/*  Date:       Mai 2013                                */
+	/*  Frontender:     OS (fOli)                           */
+	/*  Backender:      Herr Schärmeli                      */
+	/*  Copyright 2013, Maxomedia AG. All rights reserved.  */
+	/*                                                      */
+	/*//////////////////////////////////////////////////////*/
+	-->
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, minimal-ui" />
+		<meta name="theme-color" content="#292726">
+
+		<title>Teletext</title>
+
+		<!--<meta name="apple-itunes-app" content="app-id=308630240" />-->
+		<link rel="apple-touch-icon-precomposed" href="/Assets/img/app-icon.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/Assets/img/app-icon-72.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/Assets/img/app-icon-114.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/Assets/img/app-icon-144.png" />
+		<link rel="manifest" href="/Assets/config/webapp.manifest.json">
+
+		<link href="/bundles/css?v=U0pPGx5C5W9ohZdX-IAl6-zubqCuOUkOv_Gh883-qpQ1" rel="stylesheet"/>
+
+		<link rel="stylesheet" href="/Assets/css/admeira.css" />
+		
+		<script src="/Assets/js/modernizr-2.6.2.min.js"></script>
+		<!-- <script src="http://cdn1.smartadserver.com/diff/js/sasmobile.js"></script> -->
+		
+		
+		<script language="javascript">
+			//This variable is used for publishers custom targetings.
+			//Just fill in your custom key value pairs with a semicolon as separator
+			//Example: var d0f7bc88ed852 = "subsection=subsectionname;customtargeting=customvalue;";
+			var d0f7bc88ed852 = "category=something";
+		</script>
+		<script language="javascript" src="https://da.admeira.ch/1241599.js"></script>
+		<script src="https://aka-cdn.adtech.de/dt/common/DAC.js"></script>
+	</head>
+	<body data-ads="true" data-ad-pageid="53662/(swisstxt-mobile-live)" data-ad-formatid="23335,23871" data-deeplink="" data-inapp="0" data-os="windows" data-os-version="7" data-browser="chrome" data-browser-version="92" data-device="desktop">
+		<script>document.createElement('article'); document.createElement('aside'); document.createElement('audio'); document.createElement('bdi'); document.createElement('canvas'); document.createElement('command'); document.createElement('datalist'); document.createElement('details'); document.createElement('embed'); document.createElement('figcaption'); document.createElement('figure'); document.createElement('footer'); document.createElement('header'); document.createElement('hgroup'); document.createElement('mark'); document.createElement('meter'); document.createElement('nav'); document.createElement('output'); document.createElement('progress'); document.createElement('rp'); document.createElement('rt'); document.createElement('ruby'); document.createElement('section'); document.createElement('source'); document.createElement('summary'); document.createElement('time'); document.createElement('track'); document.createElement('video'); document.createElement('wbr');</script>
+
+		<div id="netmetrix_pixel">
+			<img src="" width="1" height="1" alt="" />
+			<!--
+			<script language="JavaScript" type="text/javascript">
+				var NETMX="http://teletext.wemfbox.ch/cgi-bin/ivw/CP/mobilesite";
+				document.write("<img src=\""+NETMX+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"&x="+screen.width+"x"+screen.height+"\" width=\"1\" height=\"1\" alt=\"\" />");
+			</script>
+			-->
+			<noscript>
+				<img src="http://teletext.wemfbox.ch/cgi-bin/ivw/CP/mobilesite" width="1" height="1" alt="" />
+			</noscript>
+		</div>
+
+		<form>
+            <input id="Language" name="Language" type="hidden" value="de" />
+        </form>
+	
+		<div id="noscript">
+			<div>
+				<div>
+					<h1><img src="/Assets/img/logo.png" alt="Swiss Teletext" /></h1>
+					<p>Bitte aktiveren Sie Javascript in Ihrem Browser.</p>
+				</div>
+			</div>
+		</div>
+		<div id="wrapper">
+			<div id="off-canvas">
+				<header id="header">
+					<nav>
+						<div class="main-navi">
+							<ul class="clearfix">
+								<li><a class="menu"></a></li>
+								<li><a class="channel"></a></li>
+								<li><a class="digit">100</a></li>
+								<li><a class="reload"></a></li>
+							</ul>
+
+							<h1>
+								<a href="javascript:void(0);">
+									<img src="/Assets/img/logo.png" alt="Swiss Teletext" />
+									<span>Swiss Teletext</span>
+								</a>
+							</h1>
+						</div>
+
+						<div class="rubric-navi">
+							<h2><span data-key="SIDEBAR-TITLE_1">&nbsp;</span></h2>
+							<div class="inline-scroll">
+								<!-- Rubrics will be integrated by JS -->
+							</div>
+						</div>
+					</nav>
+				</header>
+
+				<section id="body">
+					<div id="blacktxt">
+						<!-- Pages will be integrated by JS -->
+					</div>
+					<template id="admeira__ad-template">
+						<div class="admeira__ad-overlay ">
+							<div class="admeira__ad-panel">
+								
+								<div class="admeira__ad-container">
+
+									
+									<div class="modAd" id="6488071"></div>
+								</div>
+								<button class="admeira__close">
+									<img src="/Assets/img/icon-close.png" alt="">
+								</button>
+								
+							</div>
+						</div>
+					</template>
+					<div id="admeira-info" class="admeira__popup">
+						<a href="#" class="admeira__close">
+							<img src="/Assets/img/icon-close.png" alt="">
+						</a>
+						<h1>Wieso Ads?</h1>
+					</div>
+				</section>
+
+				<section id="modal" data-active-modal="">
+					<div class="main-navi"></div>
+
+					<div class="channel-navi top-offset">
+						<div class="inner">
+
+						</div>
+					</div>
+
+					<div class="number-navi top-offset">
+						<div class="inner">
+							<input id="numberInput" type="tel" pattern="\d*" value="" />
+							<div id="numberOutput"></div>
+							<div class="overlay"></div>
+
+							<a href="#" class="close"></a>
+						</div>
+					</div>
+
+					<div class="agb top-offset">
+						<div class="inner"></div>
+					</div>
+
+					<div class="hint-swipe">
+						<ul class="main-navi-ghost clearfix">
+							<li class="menu-ghost">
+								<div class="btn"></div>
+								<div class="text">
+									<hr />
+									<span><span data-key="TUTORIAL-BUTTON_MENU_1">&nbsp;</span></span>
+								</div>
+							</li>
+							<li class="channel-ghost">
+								<div class="btn"></div>
+								<div class="text">
+									<hr />
+									<span><span data-key="TUTORIAL-BUTTON_MENU_2">&nbsp;</span></span>
+								</div>
+							</li>
+							<li class="digit-ghost">
+								<div class="btn">100</div>
+								<div class="text">
+									<hr />
+									<span><span data-key="TUTORIAL-BUTTON_MENU_3">&nbsp;</span></span>
+								</div>
+							</li>
+						</ul>
+
+						<div class="vertical">
+							<div class="middle">
+								<div class="cell">
+									<span data-key="TUTORIAL-BUTTON_SWIPE_1">&nbsp;</span>
+								</div>
+								<div class="cell center">
+									<img src="/Assets/img/swipe-lr.png" alt="" />
+								</div>
+								<div class="cell">
+									<span data-key="TUTORIAL-BUTTON_SWIPE_2">&nbsp;</span>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="hint-scroll">
+						<div class="vertical">
+							<div class="middle">
+								<div class="cell">
+									<span data-key="TUTORIAL-BUTTON_SWIPE_3">&nbsp;</span>
+									<img src="/Assets/img/swipe-ud.png" alt="" />
+									<span data-key="TUTORIAL-BUTTON_SWIPE_4">&nbsp;</span>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="devicesupport">
+						<div class="vertical">
+							<div class="middle">
+								<div class="cell">
+									<img src="/Assets/img/not-supported-device.png" alt="" />
+									<span data-key="NOSUPPORT-MESSAGE_1">&nbsp;</span>
+								</div>
+							</div>
+						</div>
+						<a class="close" href="#"></a>
+					</div>
+				</section>
+
+                    <section id="appteaser" class="alt-teaser initstate">
+
+                        
+
+                        <div id="extra-info">
+                            <h3>Digitale Werbeformate auf TELETEXT Mobile (m.txt.ch)</h3>
+                            <p>
+                                Um TELETEXT Mobile weiterhin anbieten zu können, werden Ihnen neu digitale Werbeformate angezeigt.
+                            </p>
+                            <p>
+                                Sie können den mobilen Teletext auch weiterhin werbefrei nutzen: Laden Sie dazu einfach die Pro-Version der Teletext-App aus dem 
+                                <a id="store-link" href="#" data-apple-store="https://itunes.apple.com/ch/app/teletext/id308630240?mt=8" data-android-store="https://play.google.com/store/apps/details?id=ch.swisstxt.teletext" data-windows-store="" data-maxshow="4" class="bold">
+                                    Store</a>.
+                                Diese kostet einmalig CHF 4.- und kann sowohl auf dem Smartphone als auch auf dem Tablet genutzt werden. 
+                                Die Pro-Version bietet zusätzliche Features wie das Anlegen von Favoriten oder die Nutzung im Hoch- und Querformat.
+</p>
+                            <p>
+                                Herzlichen Dank für Ihr Verständnis
+                                <br/>
+                                Admeira AG
+                            </p>
+                        </div>
+
+                        
+                        <a class="close" href="#"></a>
+                    </section>
+                
+                
+
+
+			</div>
+
+			<section id="turn-device"></section>
+
+			<div class="orientation">
+				<div class="portrait"></div>
+				<div class="landscape"></div>
+			</div>
+		</div>
+
+		<!-- jQuery 1.9.1 is the last Version who supports IE 6, 7, 8 -->
+		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script>window.jQuery || document.write('<script src="/Assets/js/jquery.min.js">\x3C/script>')</script>
+		<script src="/dictionary/index"></script>
+
+
+		<!-- Additional script for UID generation -->
+		<script src="/Assets/js/uid.js"></script>
+		
+		<script src="/bundles/js?v=BO8mZO5ZHyHYbx5t3wzrK1HOOm7Y_qG2xaJwf7Gy2HA1"></script>
+
+		<script>
+			$(document).ready(function() {
+			    swissTXT.fn.setup();
+			});
+		</script>
+
+		<script type="text/javascript">
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-25342779-1']);
+
+				(function () {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+		</script>
+
+		<!-- SZMFRABO VERSION="1.1" -->
+		<script language="Javascript" type="text/javascript">
+				var szmvars = "teletext//CP//";
+				var szmopt = { mobile: true };
+		</script>
+		<script language="Javascript" type="text/javascript" src="http://teletext.wemfbox.ch/2004/01/survey.js"></script>
+		<!-- /SZMFRABO -->
+
+		<script src="//tr1.admeira.ch/tr1.admeira.ch/v1/tagger.js"></script>
+		<noscript src="https://tr1.admeira.ch/tr1.admeira.ch/v1/noscript-image.gif" alt=""></noscript>
+	</body>
+</html>
