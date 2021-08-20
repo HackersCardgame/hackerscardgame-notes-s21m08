@@ -75,4 +75,9 @@ also sobald jemand z.B. pädophilie content von mir als 5 jährige ankilckt müs
  [1] 
 
 [1] pfisterer: herausfordern <- ich: will er mich den offensiv anhägen?
+Fri Aug 20 23:13:06 CEST 2021
+  78  425 3239 20210820.txt
+[main 73adf9b] save
+ 1 file changed, 34 insertions(+)
+9cf789f72df4c78c1b376d651e3b16320043c4ad40cb934c5726bde988a98b6d85452b59943f4c7c32fcf4fde2328cb631ff9c1f032735b17b0b790438580058  20210820.txt
 
