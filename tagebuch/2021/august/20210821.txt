@@ -66,4 +66,9 @@ aedfdd133e45d0e62c1560adab02841387b2f1536ff8a2d690e51f0dbe2fa0bc7cb09b365d7d2361
 nö das ist schon so, mit musik software oder synthis kann man schon hexen und zaubern, aber dann kann man sihc nichdt auf die musik konzentrieren und die tracks töenen dann so scheisse wie die des typen der seit der gerichtsverhandlung 2013 scheinbar dazu angestellt ist mich beim musik machen zu sabotieren...
 
 
+Sat Aug 21 14:20:13 CEST 2021
+  69  463 3422 20210821.txt
+[main bd2077b] save
+ 1 file changed, 4 insertions(+)
+3ac2931f33728a47194c7edf24931b4f44ffcad8f2afa59cfe86077e325c2b9864358ff3ec0485d4715aec4e5adde16f5648acd7cea995c05849f959c1f0fd99  20210821.txt
 
