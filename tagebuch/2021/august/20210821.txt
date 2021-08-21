@@ -47,3 +47,7 @@ Sat Aug 21 13:49:32 CEST 2021
  1 file changed, 1 insertion(+), 5 deletions(-)
 f0de0a514109d23846b5a25163cbb404a236c6ba0def1b9ad8ea5a8a954b3f9bea2a3fd1787c2fae1846293ca7517101d393deb3eada2759389508920e31da18  20210821.txt
 
+interaktive statemachine mti zugriff auf github, github ist somit von urs blum als terrlrnetzwekr verraten worden
+
+
+
