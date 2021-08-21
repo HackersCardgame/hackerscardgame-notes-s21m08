@@ -109,9 +109,10 @@ oxa <-> Kokain süchtige, das wären dann die auftragskiller der zürihc versich
 
 [1] urs blum: mach da ein fragezeichen hin
 
-Sat Aug 21 15:32:12 CEST 2021
- 112  779 5601 20210821.txt
-[main e9807a1] save
- 1 file changed, 5 insertions(+), 5 deletions(-)
-add0389762cd4e0b0bda01f31241bae213786978f3019b37bf7ade97d6744ae29b2e4ecde74c17e61186142e86e4677300a9de535e230512b375d674c59dfea3  20210821.txt
+unkown:
+die EPD (Externe psychiatrschen dienste [1] tarnt
 
+content stack smashing
+cncd ziphead = npc
+
+ [ths typo malware]
