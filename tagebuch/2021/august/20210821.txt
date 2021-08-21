@@ -104,4 +104,9 @@ protokollieren dass jetzt jemand über tinnitus rechtes ohr versucht zu verhinde
 oralndo wäre somit ein pivot element mit dem man die ganzen auftragskiller aus dem oax chosen plaintexten könnte "Save the king"
 
 
+Sat Aug 21 15:25:34 CEST 2021
+ 107  758 5466 20210821.txt
+[main b7d1152] save
+ 1 file changed, 33 insertions(+)
+54c816964949fd5664fdce7952f7d91ee7c612250d025e019632c4fe3ef3577103dde45cea3b81ba996a114b81f578fefe288d2d1af3310a6483e0cb60ca7132  20210821.txt
 
