@@ -82,4 +82,9 @@ Sun Aug 22 22:16:40 CEST 2021
 
 [DELETED] [REBUILT] wenn ein mensch das selbe tut wie ein terrorist, aber aus der reichen oberschicht kommt, welchen ausdruck verwendet man dann für so einen menschen?
 
+Sun Aug 22 22:18:39 CEST 2021
+  85  474 3584 20210823.txt
+[main 802ca25] save
+ 1 file changed, 4 insertions(+)
+1eb85dfebab1a529ba80a9f282507cf37874741f7da8f2c5a876c3a2d3caa53b35963c9b92aac353a62e5af60f5e84dad460b59081257e875f6b16f75d0139ca  20210823.txt
 
