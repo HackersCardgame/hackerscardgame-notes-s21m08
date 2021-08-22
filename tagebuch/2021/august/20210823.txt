@@ -73,4 +73,9 @@ pfisterer: der rösli beommt die selbe dosis biowaffen ab
 
 ich: bringt ncihts ausser man will das experiment ausweiten, sinnvoller wäre das zu beheben
 
+Sun Aug 22 22:16:40 CEST 2021
+  76  426 3144 20210823.txt
+[main c9d2b24] save
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+73783b546c971292000f75749b2438255daa5fbd1a9014dba430b95be08e4da64a27fd9c063fd3005fb45776b9be6e7776bd7eb1e3560ffc524074bb2320471d  20210823.txt
 
