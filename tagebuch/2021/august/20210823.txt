@@ -84,4 +84,9 @@ Sun Aug 22 22:16:40 CEST 2021
 
 der unterschied wird sein, dass der oberschicht sich einredet ... gerechte rache an marc jr landolt, bis er dann erfährt, marc jr ist nur sündenbock, dann muss er aus vorsatz handeln, verliert all sein geld und wird dann richtiger terroist den man auch so nennt
 
+Sun Aug 22 22:23:20 CEST 2021
+  87  519 3849 20210823.txt
+[main 39ff1ff] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+7d00959fab7d29e35e5f83900ca0613e4c9d122e8228e1ba266aca08276098b5ec20c0b8ce03d15a08a952093d3efde2dbd387004b4d5bf96fecd6ac56677e52  20210823.txt
 
