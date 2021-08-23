@@ -98,4 +98,9 @@ Antagonierende "Medikation" (m50 Karte)
 medis geben jemandem incentives und ich leide dafür
 und ungesehen versuchen urs blum und gabriel riela mich immer noch zu ermorden dass ich nciht zu den drei toten bei abb aussage welche vermutlich von urs blum und gabriel riela oder im auftrag von urs blum oder gabriel riela ermordet wurden
 
+Mon Aug 23 02:53:38 CEST 2021
+ 101  603 4516 20210823.txt
+[main b73b2a6] save
+ 1 file changed, 9 insertions(+)
+6e461ad703b6feb5ed219825343d33a576b00bd752e94039b32b3ae4c99d782fa0a900b6c566bdbc316531d904b95e58591120f045b0531a64e008c7fc4ad4a5  20210823.txt
 
