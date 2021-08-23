@@ -147,4 +147,9 @@ dann die Margrit landolt hat ursula immer gesagt "du bist ein (ungehört: gerupf
 
 unter ferner lief, ihc hätte heute wieder mal meinen autistenhelm tragen sollen...
 
+Mon Aug 23 21:03:34 CEST 2021
+ 150  995 7272 20210823.txt
+[main c1bb6cc] save
+ 1 file changed, 11 insertions(+)
+f2d9b394e72c047817fbe669e1eaed9640de7a52c8b29394fd9d093b8400a5a04dfbcea3f91726d866d849f86cb6951c05136fdda5886d4349a4dda79bbbd8ae  20210823.txt
 
