@@ -189,4 +189,9 @@ in dem konstrukt wo christoph rösli claudien geheiratet hat und der urs blum mi
 
 dieses konstrukt kann man wenn es richtig wäre nicth sage weil dann wird suizid bei mir aktiviert und ihc steche mich wieder "selber" mit einem messer ab...
 
+Mon Aug 23 22:40:52 CEST 2021
+ 192 1348 9832 20210823.txt
+[main ebeb789] save
+ 1 file changed, 1 insertion(+), 6 deletions(-)
+f7ebda7323e2e9ce129af61bd4ccd4e13d65396fabb1b57c7a5bc487b55e01492bceb7c4d3832699812c9ac446199904e55aab1f0698092230cefbd4d65948d9  20210823.txt
 
