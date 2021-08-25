@@ -1,0 +1,62 @@
+Return-Path: <noreply@ag.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.217])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id 2IEnKU5fJmF+qAAApkpzRw
+	(envelope-from <noreply@ag.ch>)
+	for <mail@marclandolt.ch>; Wed, 25 Aug 2021 17:18:38 +0200
+Received: from mxin017.mail.hostpoint.ch ([10.4.2.217])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id cInxKE5fJmGKOwEA9BAvQA
+	(envelope-from <noreply@ag.ch>)
+	for <mail@marclandolt.ch>; Wed, 25 Aug 2021 17:18:38 +0200
+Received: from xmgw06.ag.ch ([193.47.120.63])
+	by mxin017.mail.hostpoint.ch with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <noreply@ag.ch>)
+	id 1mIufm-0008T6-JX
+	for mail@marclandolt.ch; Wed, 25 Aug 2021 17:18:38 +0200
+IronPort-SDR: xdak7x9zQ5Kd2Kf5ltsJtGGwevSLfdoxya/bHeWEp6IwYjhf52+ikIWiKVWNGDPJBf+Ml0FbD/
+ 4rpPEbqjegSw==
+X-IronPort-AV: E=Sophos;i="5.84,351,1620684000"; 
+   d="scan'208";a="111714251"
+Received: from unknown (HELO xmgw51.ag.ch) ([193.47.120.51])
+  by xmgw06.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 25 Aug 2021 17:18:38 +0200
+Received: from xmgw06.ag.ch (xmgw06.ag.ch [193.47.120.63])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by xmgw51.ag.ch (Postfix) with ESMTPS
+	for <mail@marclandolt.ch>; Wed, 25 Aug 2021 17:18:36 +0200 (CEST)
+Date: 25 Aug 2021 17:18:36 +0200
+IronPort-SDR: MheXpHY5FDmyXp2zkkD6V7qY0knlU7BqsgwrtCN6Y7COdHFDysAJ1PhcfVgXnTKOGetpuLkt7t
+ O/Lx7J8PqAcQ==
+X-IronPort-AV: E=Sophos;i="5.84,351,1620684000"; 
+   d="scan'208";a="111714250"
+Received: from unknown (HELO SVWAF705.aads.ktag.ch) ([193.135.205.79])
+  by xmgw06.ag.ch with ESMTP; 25 Aug 2021 17:18:36 +0200
+From: noreply@ag.ch
+To: mail@marclandolt.ch
+Message-ID: <954718756.68091629904716154.JavaMail.SVWAF705$@SVWAF705>
+Subject: =?Cp1252?Q?=DCbermittlungsbest=E4tigung_Ihrer_Steuererkl=E4rung?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=Cp1252
+Content-Transfer-Encoding: quoted-printable
+X-SM-outgoing: yes
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+Vielen Dank f=FCr die Einreichung Ihrer Steuererkl=E4rung per EasyTax Trans=
+fer.
+
+Druck-ID: 850
+
+Bitte reichen Sie die unterschriebene Quittung  zusammen mit den Belegkopie=
+n im Umschlagbogen an das Gemeindesteueramt ein.
+
+Ohne diese unterschriebene Quittung gilt die Steuererkl=E4rung als nicht ei=
+ngereicht und das Gemeindesteueramt hat keinen Zugriff auf Ihre Daten!
+
+Freundliche Gr=FCsse
+Kantonales Steueramt Aargau
+
+Bitte antworten Sie nicht auf diese E-Mail.
