@@ -54,3 +54,6 @@ Sat Aug 28 06:56:31 CEST 2021
  1 file changed, 4 insertions(+)
 1cc18a53848a04eb35c40c43c36111520957b73041296d0d4917d2d64d3e62e9fd1bd2645904fac008f3174f8933cdd30d2f6bc6344180e22a40074842b710f2  20210828.txt
 
+wichtiger wäre zu wisesn was das ist, wie das aktiviert wird (ich vermute mit gepulsten mikrowellen und ob und wie man es beheben kann
+
+
