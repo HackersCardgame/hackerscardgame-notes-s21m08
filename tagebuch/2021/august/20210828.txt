@@ -42,4 +42,6 @@ Sat Aug 28 04:19:32 CEST 2021
 
 also für den mit "hahaha schadensausmass" bin ich scheinbar ein objekt
 
+= >  create mode 100755 1977undJuenger__HERE_BE_DRAGONS/koerperverletzungenAnMarcJr/hahaha-schadensausmass.jpg
+
 
