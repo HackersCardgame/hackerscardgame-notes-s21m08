@@ -21,4 +21,9 @@ Sat Aug 28 02:27:20 CEST 2021
 
 aber vermutlich ist das "mich mit chemitroden /behandeln/" deeskalierend für die täter damit die nicht amok laufen...
 
+Sat Aug 28 02:29:26 CEST 2021
+ 24  86 740 20210828.txt
+[main 23c047a] save
+ 1 file changed, 4 insertions(+)
+3f9a4d63c4e5b7a1feda337bd05df1277f148fc102325a443414f3298e76e1d2c2644884c41ae3314429d3cfaf228ecb1cda28bd9ac5f4b1fc944d04072d8fe8  20210828.txt
 
