@@ -83,3 +83,20 @@ Sat Aug 28 07:01:09 CEST 2021
  1 file changed, 4 insertions(+)
 3a256f4c08377bf6e7bf9d59baaf2a6cc1b7b55ace29414ee5f74976780b5ba921ad82298510f2998bf3c94364ed2f1a5083120f3fb09866f0bea7508c1f7ad9  20210828.txt
 
+ich verpetz das nicht um recht zu bekommen oder einen präzedenzfall zu schafen, sondern um allenfalls anderen zu helfen in ähnlichen situationen dass sie diesen weg allenfalls umgehen können
+
+1. der Coop Chef telli hat gesagt im coop system stehe: wenn ich im laden sei soll man die polizei holen, er sei grossmütig und hole die poizei nicht weil ich 2meter in der ladenfläche (aber nihct im laden selber) stand
+2. ich hab ihm vorhin gesagt, dass die coop infrastruktur epilepsie bei mir ausgelöst hat und dass ich das opfer und nicht der täter sei
+3. er hat gesagt er müsse die sicherheits-cheffin fragen, ruft an
+4. ich bin dann nochmals dort hin und habe gefragt wer den eintrag gemacht habe dass man die polizei holen soll 
+-->da sagt er es sei der mitarbeiter im coop am bahnhof geswesen, was vermutlcih eine lüge war
+5. ich frage den menschen, ob das coop informatik system eigentlich ein auftragssystem für morde von dieser sorte von amerikanern sei
+6. da spilet der chef-npc wieder das endlos band "ich hole die polizei" ab und bei mir schaltet wieder icd10 g40.2 ein, obwohl ich nicht im laden bin, ausserdem filmt die kamera allenfalls auch ausserhalb der ladenfläche was afaik ein straftatbestand darstellt
+
+=> nicht perfekt im detail wiedergegen 
+
+6 impliziert, dass mitarbeiter wissen, dass sie im coop system auftragsmorde eintragen können
+6 impliziert, dass coop die polizei zum vertuschen von mordversuchen an kunden verwendet
+=> dieser mitarbeiter zieht den ruf der polizei in den dreck [bei mir schaltet jetzt wieder icd10 G40.2 ein]
+
+
