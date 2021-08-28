@@ -48,4 +48,9 @@ rechtlich: körperverletzung mit dem ziel bei der wundversorung und beim erkenne
 
 pfisterer, urs blum, riela, härdi, häfliger ([deleted] [rebuilt] und die zürich versichrung) wollen marc jr landolt ermorden um den präzedenzfall kontext mord oder genozid durch die schweizer armee an autisten zu vertuschen, bzw. ein "sorry der zeuge ist leider verstorben" zu machen...
 
+Sat Aug 28 06:56:31 CEST 2021
+  51  258 2240 20210828.txt
+[main b43db23] save
+ 1 file changed, 4 insertions(+)
+1cc18a53848a04eb35c40c43c36111520957b73041296d0d4917d2d64d3e62e9fd1bd2645904fac008f3174f8933cdd30d2f6bc6344180e22a40074842b710f2  20210828.txt
 
