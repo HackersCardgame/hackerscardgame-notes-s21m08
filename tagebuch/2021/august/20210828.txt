@@ -77,4 +77,9 @@ Sat Aug 28 07:00:20 CEST 2021
 
 wichtiger wäre zu wisesn was das ist, wie das aktiviert wird (ich vermute mit gepulsten mikrowellen und ob und wie man es beheben kann
 
+Sat Aug 28 07:01:09 CEST 2021
+  80  416 3613 20210828.txt
+[main f16911f] save
+ 1 file changed, 4 insertions(+)
+3a256f4c08377bf6e7bf9d59baaf2a6cc1b7b55ace29414ee5f74976780b5ba921ad82298510f2998bf3c94364ed2f1a5083120f3fb09866f0bea7508c1f7ad9  20210828.txt
 
