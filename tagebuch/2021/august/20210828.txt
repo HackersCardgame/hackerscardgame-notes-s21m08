@@ -40,3 +40,6 @@ Sat Aug 28 04:19:32 CEST 2021
  1 file changed, 8 insertions(+)
 27eff43d6eee7aea1d96c3452d32555c518f73ffa146b44f879fa5157f87f1e039b832a68860d550a3351343ca5c4dca21e2236b6a848130f01f90c629c11afb  20210828.txt
 
+also für den mit "hahaha schadensausmass" bin ich scheinbar ein objekt
+
+
