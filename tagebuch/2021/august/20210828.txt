@@ -108,4 +108,9 @@ c9579292ac5a6f17d1856b358c646e13082b34e484a3e4230fa74e4228d39cc9269722ffd6a915eb
 
 pfisterer hasst gemäss seiner aussage lesben, schwule und juden, er hat nicht gesagt transen (im platonischen / seelischen / mindSet sinne) seien nicht recht, aber ich glaub er hasst auch transen
 
+Sat Aug 28 20:07:31 CEST 2021
+ 111  745 5888 20210828.txt
+[main 498f175] save
+ 1 file changed, 9 insertions(+)
+a9ac945046d1cb4edad3914026b05c5acae8c734adba6cad76425f9b2f42b781d8019515eb3ea5948c28805f7f580b4fd10235505bb5a659c9158690eee2d004  20210828.txt
 
