@@ -113,4 +113,9 @@ Sun Aug 29 15:38:33 CEST 2021
 
 also der david utz hat somit allenfalls die sabrina lüthi für etwas hingerichtet wofür eigentlich david utz selber hätte hingerichtet werden sollen, so erzwingt die armee geheimhaltung, weil sobald dem david utz das klar wird/würde ...
 
+Sun Aug 29 15:43:49 CEST 2021
+ 116 1054 7517 20210829.txt
+[main 8cc08a8a] save
+ 1 file changed, 3 insertions(+)
+ac12a8b3e59f8a88a77166283122d02b5d8f21e7c33077d6a7c009f600da2aa7cf9af2ec2befd01861a861fc5e96e2db36ba51a83b91653b5cfe303e8f3fc468  20210829.txt
 
