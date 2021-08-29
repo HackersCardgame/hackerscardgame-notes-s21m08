@@ -97,4 +97,9 @@ ich: mit dieser aussage udn beichte schaltet der simon härdi den bitcoin frei, 
 
 da ich bald drauf gehe ist es die einzig logische entscheidung euch langsam darauf vorzubereiten, ihr müsst langsam daran heran gebracht werden...
 
+Sun Aug 29 15:31:50 CEST 2021
+ 100  901 6287 20210829.txt
+[main 5c176c9d] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+c6d648b6c88bf940507bf2f05e45002e661069bd8368175f8e4a3e4820a4b1c0e8e96dd8b1f442c8af97421017da16864d2353186b842a7e1a07849e45fb631a  20210829.txt
 
