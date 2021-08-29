@@ -117,4 +117,9 @@ man sollte sowieso nicht richter oder henker oder polizist werden, sondern medic
 
 also das ist etwas wie ein militräischer kettenbrief für massenvernichtung, das zu korrigieren bedingt dass wir es anprangern und mindestens die jüngeren die da noch nciht drin sind warnen
 
+Sun Aug 29 15:45:31 CEST 2021
+ 120 1113 7914 20210829.txt
+[main e3202410] save
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+eca9b45a8820599d9d573aa2c8bfe55c723022eb4cb983131c73b8cf5c52ee5d67d5f50641b8f08ea3664ce89af1f82682c7b9baf841b3e5ad2acab40f60555e  20210829.txt
 
