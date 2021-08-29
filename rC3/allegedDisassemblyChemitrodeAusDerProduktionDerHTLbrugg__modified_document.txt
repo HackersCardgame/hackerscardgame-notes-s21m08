@@ -204,4 +204,9 @@ dann schätzungweise auch verunreinigt weil öfters entzündungen
 
 einem menschen so etwas zu verpassen wäre dann wirst case genau das eine Bit von information / stressor, dass entscheidet ob eine mensch suizid/amok läuft oder nur einen suizidversuch macht, wer solche dinger verpasst muss somit verwahrt werden unter jedem umstand, bzw. wenn jemand dann 24h auf den menschen aufpasst vielleicht auch nicht...
 
+Mon Aug 30 01:21:27 CEST 2021
+  207  2072 17250 allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg__modified_document.txt
+[main 61e38b70] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+d62b4f98940df36cf07f45452bb241283026a71e5bab23bee794972f41c45aa89f0bca615ef8be84b83771789b4a22152f25a9701442447fb7b8325fdb929744  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg__modified_document.txt
 
