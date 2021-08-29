@@ -14,4 +14,10 @@ pfisterer macht somit business mit der pharma industrie
 
 lässt den sündenbock und zeugen marc jr landolt mti psychopharmaka wie zyprexa schädigen, holt sich die einwilligung aller gleichaltrigen und älteren, lässt die anderen 20 + 20 jahre auf marc jr landolt einschlagen, dann fordert pfisterer alle gelder von allen oder rückt das gegenmittel (was auch nur spekulativ existiert, keinen wissenschaftlichen bweeis) nur raus wenn alle die ein fehlurteil gefällt haben ...
 
+Sun Aug 29 23:28:25 CEST 2021
+  17  254 1636 20210830.txt
+[main 035dfbbb] save
+ 1 file changed, 17 insertions(+)
+ create mode 100644 tagebuch/2021/august/20210830.txt
+953bba2c0ab737bebd78bfe9e65c75c3f7226f8c768edb666354761a9697327d99ba124191b6e4e14315a930ed1f2c63d9df73ecf30ff56ade5118ee0eab8154  20210830.txt
 
