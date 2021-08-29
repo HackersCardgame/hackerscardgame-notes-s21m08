@@ -161,4 +161,9 @@ also kann ich mich gar nicht dazu threapieren lassen aquila untreu zu werdne son
 dann sollten wir alle schauen dass das nicht eintritt:  https://nerdpol.ch/posts/10040706
 -> weil dann ist für diejenigen menschen das lebne kein ponyhof mehr...
 
+Sun Aug 29 18:52:18 CEST 2021
+  164  1504 10822 20210829.txt
+[main 94248baf] save
+ 1 file changed, 1 insertion(+)
+82a62807bb7aa517094635000636f3dcf0b71805712065190d054f808818a29360bbc1bbb507615134a9b64c531e2d0c843b26006826ab11d8a907477441ee25  20210829.txt
 
