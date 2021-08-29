@@ -65,4 +65,9 @@ urs lbum hat den auftrag von amerkian die schweiz möglichst stark zu shcädigen
 1Mia geraubt, somit mindestens 10 mio kapital um terror zu machen, aber um den bruder von urs blum zu zitieren, irgendwann ist urs blum ausgeschissen und dann wird urs blum verwahzrtt werden 
 
 
+Sun Aug 29 02:32:04 CEST 2021
+  68  607 4160 20210829.txt
+[main 545b39b0] save
+ 1 file changed, 7 deletions(-)
+208ecbeea9a3cd90e0f61a43d42bb8a063c80715ca7cff74298bfdeeaa2228c7388e4e48f3151b5745899796dbbbba29de0ada93df68a1dd13d65aab55277f45  20210829.txt
 
