@@ -153,4 +153,9 @@ Zensur wird von den Offizieren erzwungen mit Beihilfe zu Mord oder Beihilfe zu G
 - psychiatrie königsfelden neben waffenplatz, militärsiches vernichtungslager für zeugen die die schweizer armee überführen kann
 * ICD 10 G40.2 aktiviert worden
 
+Sun Aug 29 18:43:47 CEST 2021
+  156  1439 10371 20210829.txt
+[main e7892026] save
+ 1 file changed, 2 deletions(-)
+280c5d9c0f34aedae8c0ae1dea7ee01e5921447147017e8e85f6631f4b9b49aa0ffabd0751ebede2daf5684572d8031900efac9f29668f9bfcd5edb62f1c7a11  20210829.txt
 
