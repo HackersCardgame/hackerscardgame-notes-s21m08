@@ -66,4 +66,9 @@ Anderes Thema, z.B. der verkauf/einkauf von Kampffliegern, kann das sein, dass d
 
 ich nehme an das ist urs blum selber der jetzt diese information injected hat um falls das stimmt die armee dazu zu motivieren mich anzugreifen damit er sihc mit reila und pfisterer und der züprich versichreung verdrücken kann
 
+Tue Aug 31 20:33:00 CEST 2021
+  69  531 3948 20210831.txt
+[main 13297356] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+33ac4c633b233bc2bf58d055548dfd2aff0eecaa593de8cf56ee68727f3b51d730b2a6edbf1e7366b85897efd1c1745358f9ef41424f7aa8f5d232bdb297a1e4  20210831.txt
 
