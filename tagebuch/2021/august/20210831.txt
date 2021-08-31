@@ -84,4 +84,9 @@ dann wäre der polizist michael ritter neben polizist vermutlich auch offizier d
 
 somit wäre die frage ob man mit digital literacy all dieser offiziere in flagranti erwischen kann?
 
+Tue Aug 31 20:57:26 CEST 2021
+  87  650 4892 20210831.txt
+[main 91a8ed7d] save
+ 1 file changed, 11 insertions(+)
+4919086ce773f05a3939433908b82ce8afef2e1dbb1f7afccee9a5a4dbc0e2ef703318d77f96b3847a0ebd48b350988db91d5b5a4fe29f74003d0f514fcf8ad0  20210831.txt
 
