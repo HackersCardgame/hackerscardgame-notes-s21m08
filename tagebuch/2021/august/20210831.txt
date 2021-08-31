@@ -89,4 +89,9 @@ also der urs blum hat jetzt einfach damit angefangen rangtiefere offiziere und k
 Frage:
 ein Brandversicherungs-Experte (sagen wir mal von der Zürcih Versicherung), darf der jeweils an den tatort und würde dort allenfalls helfen die eigentlichen täter zu schüẗzen?
 
+Tue Aug 31 21:11:15 CEST 2021
+  92  714 5308 20210831.txt
+[main b34f93a1] save
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+3754bcb4ebe33a536ea4bf84f097b149aef07d64ae0fd8af447c739b40aee94efd1cf6249462d8b36504e17f915e2eb3bc747bcb1a5ebedb5adfc29b6085830f  20210831.txt
 
