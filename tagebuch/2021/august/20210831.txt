@@ -68,4 +68,9 @@ ich nehme an das ist urs blum selber der jetzt diese information injected hat um
 
 somit wäre das ganze "geheimdienste sharen international daten" eine Ablenkung dass vorallem Militärs soches tun?
 
+Tue Aug 31 20:48:06 CEST 2021
+  71  546 4065 20210831.txt
+[main 591901da] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+b342790312a711ae96b550f4944bbb5f5b5ba0859c12468ade444654a23dcccd2bf364f631730dd20150afa46d6373709c6827dfafa81ec4a712c437955c03d2  20210831.txt
 
