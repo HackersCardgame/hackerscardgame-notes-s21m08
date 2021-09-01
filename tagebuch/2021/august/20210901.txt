@@ -12,4 +12,9 @@ bei der polizei geht es somit darum wer die mächtigeren waffen und die besseren
 der polisit michal ritter weiss dass er der george gaggo von urs blum bleibt wenn er nicht einen jüngeren polisizten mit ins verderben reisst...
 
 
+Wed Sep  1 19:12:54 CEST 2021
+ 15  78 494 20210901.txt
+[main f0598afd] save
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+9595313c9f4a9a7201241ef7df73144a436812a078727b37a25079ed20e314e95ab9bbc6de84b58a4b493e332e911f85f9887e743a1f18402cc8ea1afa54d112  20210901.txt
 
